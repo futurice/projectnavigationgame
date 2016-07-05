@@ -1,1 +1,1962 @@
-[{"id": 508, "title": "Incentives interviewee.", "description": "How are interviewees incentivieced?", "category": "", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 507, "title": "NDA interviewee", "description": "Does the interviewee need to sign an NDA?", "category": "", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 506, "title": "Interview location", "description": "Where do the interviews take place?", "category": "", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 505, "title": "End user recruitment.", "description": "Who does the end user recruitement for user interviews?", "category": "", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 504, "title": "Contact point customer?", "description": "Who in the team is the contact point for the customer?", "category": "", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 503, "title": "Visuals in SVS?", "description": "Are visuals part of the SVS deliverables?", "category": "", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 502, "title": "Prototypes in SVS?", "description": "Are prototypes part of the SVS deliverables?", "category": "", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 501, "title": "Right people.", "description": "Can we have the right people to cover all aspects in the SVS: desirability, feasability, viability?", "category": "", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 500, "title": "Customer in SVS.", "description": "Who of the customer is part of the SVS and how much?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 499, "title": "Customer in SVS", "description": "Is the customer part of the SVS?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 498, "title": "Contact end users.", "description": "How can we contact the end users?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 497, "title": "Unfettered access.", "description": "Can we contact the end users directly or does the customer act as proxy?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-07-05"}, {"id": 496, "title": "Access to end users.", "description": "Do we have direct access to end users?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "Essential for SVS/concepting, important for other project types.", "last_modified": "2016-07-05"}, {"id": 495, "title": "PM triangle", "description": "What are the constraints?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "Schedule, Scope, Budget.", "last_modified": "2016-04-21"}, {"id": 484, "title": "Outside scope", "description": "What is the biggest thing which is outside the scope of this project", "category": "Scope", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 483, "title": "Service in 1 year", "description": "What will the service be in 1 year, 2 years from now", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 482, "title": "All parts", "description": "Are all parts, required to make the service work, budgeted for?", "category": "Scope", "card_type": "Q", "deck": "a", "help_text": "All mobile platforms, backend services, Gateways, CI systems, .....", "last_modified": "2016-04-21"}, {"id": 481, "title": "Availablility", "description": "What is the availability of the team members?", "category": "Team", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 480, "title": "Waste", "description": "What has been the most wasteful activity so far?", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 479, "title": "Learning", "description": "If you had one week for somebody in the team to learn something. Who and what would that be?", "category": "Team", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 478, "title": "Best thing", "description": "What has been the best decision we have made since the start of the project?", "category": "Way", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 477, "title": "Twice as happy", "description": "If we could have done things differently, what would have made the customer twice as happy?", "category": "Customer", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 476, "title": "Reccommend", "description": "What practise from this project would you recommend every singe other project to adopt?", "category": "Way", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 475, "title": "Concept history", "description": "Do we know how we ended up with the current concept?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 474, "title": "Design approval", "description": "Are there any other parties in the customer organisation who have to approve the designs?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 473, "title": "Business case", "description": "Have we challenged the business case?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 472, "title": "Concept", "description": "Have we challenged the concept?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 471, "title": "Challenge brand", "description": "Have we challenged the brand guidelines", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 470, "title": "Partial concept", "description": "Does the customer know which part of the concept will be implemented first?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 469, "title": "Design review", "description": "Have the designs been reviewed by the developers/PO?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 468, "title": "PS project", "description": "Is the photoshop (or other design) project file on drive?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 467, "title": "Share assets", "description": "How to we stare/share/version control assets?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 466, "title": "Assets to developers", "description": "Do the developers have all assets?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 465, "title": "Possible", "description": "Are all designs possible (or easy enough) to implement?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 464, "title": "Design review", "description": "Have the designs been peer reviewed by other futu designers", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 463, "title": "Design approval", "description": "Have all stakeholders approved the designs?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 462, "title": "Disign awareness", "description": "Have all stakeholders seen the designs?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 461, "title": "Brand", "description": "Is our design aligned with the brand", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 459, "title": "PO incentives", "description": "What are the incentives for the PO?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "Think also about bonus schemes, personal ambition etc.", "last_modified": "2016-04-21"}, {"id": 458, "title": "Release", "description": "Is there anything unknown about the release process?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "Test release build process, walk through acceptance and deployment/store release steps. ", "last_modified": "2016-04-21"}, {"id": 457, "title": "Postpone", "description": "Is there anything in the backlog which could be postponed to the next release?", "category": "Scope", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 456, "title": "Weekend work", "description": "What is the agreement about weekend work?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "Who decides, how to avoid undue peer pressure, any extra compensation?", "last_modified": "2016-04-21"}, {"id": 451, "title": "Confidentiality", "description": "What can I tell inside Futurice?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 450, "title": "Sensitive data", "description": "Does the project include any sensitive personal data?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 449, "title": "Open source clause", "description": "Does the contract include our open source clause?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 448, "title": "Open source licences", "description": "What are allowed/forbidden open source licenses?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 447, "title": "Libraries", "description": "Is there any limitations when in comes to choosing libraries, frameworks etc.?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "Some organisation have limitations in the shape of a blacklist (or whitelist) for 3rd party libraries.", "last_modified": "2016-04-21"}, {"id": 446, "title": "IPR ownership", "description": "Who own the Intellectual property rights?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 445, "title": "Working location", "description": "Does the contract stipulate where the work should be carried out?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 444, "title": "Obligations", "description": "What, if any, are the contractual obligation the customer has to fullfill to enable project success?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "Think about required upstream changes, delivered information, PO availability", "last_modified": "2016-04-21"}, {"id": 443, "title": "Communciation", "description": "What is the most important thing to improve related to inside team communication?", "category": "Way", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 442, "title": "Onboarding", "description": "What information was missing from the onboarding?", "category": "Team", "card_type": "Q", "deck": "r", "help_text": "If there are people who joined after the project started.", "last_modified": "2016-04-21"}, {"id": 441, "title": "Contraints", "description": "What is the most significant change in the constraints since the beginning? ", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "Budget, scope, schedule", "last_modified": "2016-04-21"}, {"id": 440, "title": "Backlog", "description": "How happy are we with the backlog? How can we make it better?", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 439, "title": "Value driven", "description": "Are we working on the most valuable item?", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 438, "title": "Feedback", "description": "What is the most relevant feedback have we received from the end-user so far?", "category": "Tech", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 437, "title": "Cancelled", "description": "If the customer would decide to cancel the project what would be the reason?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 436, "title": "Disappointment", "description": "In what way have we most disappointed the customer?", "category": "Customer", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 435, "title": "Team forming", "description": "How well is the team working as a team and how could it be better?", "category": "Team", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 434, "title": "Haven't told", "description": "What is the biggest thing we haven't told the customer.", "category": "Customer", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 432, "title": "Time left", "description": "Based on the current burnrate how long will the budget still last", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 431, "title": "Value creation", "description": "What is the most valuable thing we have done for the customer so far?", "category": "Customer", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 430, "title": "Customer", "description": "What is the most surprising thing you learned about the customer?", "category": "Customer", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 429, "title": "Team change", "description": "What in the team set up would you most like to change?", "category": "Team", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 428, "title": "Tech change", "description": "What technological aspect would you most like to change?", "category": "Tech", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 427, "title": "Assumptions", "description": "Are there any assumptions you made in the beginning which did not hold and what is the impact?", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 426, "title": "Travel", "description": "If the project crosses borders, what is the plan with regards to traveling?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 425, "title": "Other costs", "description": "Who pays for project expenses (think of travel, licence and other costs)", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 424, "title": "Multiple locations", "description": "If your team is not all sitting at the same location, how often do you co-locate or rotate team members?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 423, "title": "New information", "description": "If we knew at the start what we know now, what would we have done different?", "category": "Way", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 422, "title": "Technical debt", "description": "Is the amount of technical debt we have created acceptable?", "category": "Tech", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 421, "title": "Things to change", "description": "What 3 things would you like to change?", "category": "Tech", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 420, "title": "Team motivation", "description": "What direction is the team motivation going?", "category": "Team", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 419, "title": "Happy customer", "description": "Is the customer happier than at the start of the project?", "category": "Customer", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 418, "title": "Surprises", "description": "What has been the biggest surprise in the project so far?", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 417, "title": "Team changes", "description": "What is the difference between the onboaring of original team memebers vs those who joined later on?", "category": "Team", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 416, "title": "Business case", "description": "Compared to the beginning, what has changed in the customer's business case?", "category": "Customer", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 415, "title": "Continue", "description": "Why should we continue with the project", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 414, "title": "Budget", "description": "Are we currently ahead or behind our expectations from the beginning of the project.", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "Think about budget, scope and schedule.", "last_modified": "2016-04-21"}, {"id": 413, "title": "What changed?", "description": "Compared to the beginning, what is the most important thing that has changed?", "category": "Scope", "card_type": "Q", "deck": "r", "help_text": "", "last_modified": "2016-04-21"}, {"id": 230, "title": "Getting in the flow", "description": "How do you help others get into the flow?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "You can make agreements about disturbing, working hours when to plan meetings etc.", "last_modified": "2016-04-21"}, {"id": 229, "title": "Burnrate", "description": "When the team is fully running how much budget is used per week?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "Fully running means the team after ramp-up so based on the normal allocation of the team.", "last_modified": "2016-04-21"}, {"id": 228, "title": "Credentials", "description": "Do all team members have all relevant credentials", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 227, "title": "Scrum budget", "description": "How much budget/time is reserved for retrospectives/ scrum activities?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 226, "title": "UAT support", "description": "How much budget/time is reserved for supporting user acceptance testing?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 225, "title": "Deployment", "description": "How much budget/time is reserved for deployment to production?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 224, "title": "Cancel", "description": "What are the most likely scenarios in which the customer would cancel the entire project?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 223, "title": "Extra work", "description": "How de we avoid doing extra work (not part of what is agreed) for free?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 222, "title": "PM budget", "description": "How much budget is reserved for PM services?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "PM services are things like invoicing, reporting, meetings, finding new team members, ....", "last_modified": "2016-04-21"}, {"id": 221, "title": "PM services", "description": "What PM services are required to be done by the team? And is this budgeted?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "Think about invoicing, reporting, meetings, finding new team members, ....", "last_modified": "2016-04-21"}, {"id": 220, "title": "QA roles", "description": "Are their dedicated QA specialists available and what is their role? ", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 219, "title": "Our motivation", "description": "Why don't we just walk away from the project?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 216, "title": "QA Budget", "description": "How much budget is reserved for QA?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 206, "title": "Easier", "description": "Given the business objectives and constraints, can the projet be done easier?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "If there is something, there could be a lack of understanding.", "last_modified": "2016-04-21"}, {"id": 205, "title": "Reporting", "description": "What is expected in terms of progress reporting?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 204, "title": "Product backlog", "description": "Who does the invoicing?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 203, "title": "Sprint backlog", "description": "Where is the sprint backlog?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 202, "title": "Hour marking", "description": "How should the hours be marked?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 201, "title": "Remote work", "description": "Can we work remotely on Friday?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 200, "title": "Previous projects", "description": "What case in Futuhistory most resembles this case and what where the biggest problems?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 199, "title": "Tech knowhow", "description": "How well does the customer understand tech?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 198, "title": "Distance to PO", "description": "How far are we sitting from the PO?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 197, "title": "Tools", "description": "Is there a limitation on which tools we can use for backlog management?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 196, "title": "Tools", "description": "Is there a limitation on which tools we can use for issue tracking?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 195, "title": "New team member", "description": "Scenario: A new team member joins. How long does it take that person to be up to speed?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 194, "title": "Environment", "description": "How much control do we have on the working environment?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 193, "title": "Demos", "description": "Who is present during the demos?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 192, "title": "Demo frequency", "description": "How often do we have a demo?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 191, "title": "Metrics", "description": "Which metrics do we use to track the projects?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 190, "title": "Optimism", "description": "When estimating how can we temper our own optimism?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 189, "title": "DoD", "description": "What is the definition of done?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 188, "title": "Sprint length", "description": "How long are the sprints?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 187, "title": "Retrospectives", "description": "How often do we schedule retrospectives and who arranges them?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 186, "title": "Product backlog", "description": "Who can add/remove items from the product backlog?", "category": "Way", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 185, "title": "Product backlog", "description": "Where is the product backlog?", "category": "Way", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 184, "title": "Legacy code", "description": "What is the quality of the current codebase?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 183, "title": "Repository", "description": "Where is the code?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 182, "title": "Dependencies", "description": "Can we influence the features of dependent services?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "Can we modify/ add an api we are using?", "last_modified": "2016-04-21"}, {"id": 181, "title": "3rd Party libraries", "description": "Are we free to choose frameworks, libraries etc.?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 180, "title": "End2End", "description": "What is needed to get a working E2E environment?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 179, "title": "Documentation", "description": "What documentation is required?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 178, "title": "Dependencies", "description": "What are the external dependencies?", "category": "Tech", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 177, "title": "First release", "description": "What is needs to be set up before we can deliver the first working software?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 176, "title": "Customer brand", "description": "Do we have brand guidelines?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 175, "title": "Release", "description": "Who releases the application to the store?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 174, "title": "Deployment", "description": "Are we able to deploy on production?", "category": "Tech", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 173, "title": "Account mngr", "description": "Who is the account manager?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 172, "title": "Support team", "description": "Who is supporting the team?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 171, "title": "Core team", "description": "Who is part of the core team?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 170, "title": "Other commitments", "description": "What other commitments does the team have?", "category": "Team", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 169, "title": "Industry", "description": "What do we know of the industry?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 168, "title": "Team size", "description": "Are there any planned changes in the team size?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 167, "title": "Plans", "description": "Does anybody in the team have holidays/absences planned?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 166, "title": "Experience", "description": "How well do we know the technology used?", "category": "Team", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 165, "title": "Experience", "description": "How much experience do we have with this type of project?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "This is related to the project setup not the technology or other competences used", "last_modified": "2016-04-21"}, {"id": 164, "title": "No sayer", "description": "If the customer pushes for more features on top of the agreed scope, who will say no to them?", "category": "Team", "card_type": "Q", "deck": "g", "help_text": "Saying no is not easy, think if you are comfortable saying no.", "last_modified": "2016-04-21"}, {"id": 163, "title": "Biggest concern", "description": "What is the biggest concern of the PO?", "category": "Scope", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 162, "title": "PM Triangle", "description": "What is most important schedule, scope or budget?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "If there is a problem. Is the customer more likely to add people, remove feature or extend deadline?", "last_modified": "2016-04-21"}, {"id": 161, "title": "Platform support", "description": "A new client OS is released during the project: are updates due to this in or outside the scope?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 160, "title": "Known Unknowns", "description": "What is the biggest unknown in the project?", "category": "Scope", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 159, "title": "MoSCoW", "description": "Which fraction of the backlog is must vs. should or could?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 158, "title": "Deadline", "description": "Is there any hard deadline?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "Think about media campaigns, special events, seasonal buying related to the service?", "last_modified": "2016-04-21"}, {"id": 157, "title": "Lifetime service", "description": "How long is the service expected to be used?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 156, "title": "Platform support", "description": "Which OS/platform/\u2026 versions do we support?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 155, "title": "Delay impact", "description": "What happens to the customer's business case if the release is a month later?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 154, "title": "Release planning", "description": "How far from the launch day are we when we have burned half of the total budget?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 153, "title": "Project end", "description": "When is the project finished?", "category": "Scope", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 152, "title": "Scope change", "description": "How do we know if something is outside the scope?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 151, "title": "Scope change", "description": "Who negotiates scope changes?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 150, "title": "Underestimate", "description": "If an item is larger than was estimated during sprint planning, what is most likely to happen?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 149, "title": "Revenue", "description": "How much does the customer expect to spend on Futurice before the end of the project?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 148, "title": "Budget check", "description": "How often do we check how we are doing on budget?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 147, "title": "Timeline", "description": "How much budget do we expect to be used before we deliver the first working version?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 146, "title": "Timeline", "description": "How much time is there reserved for bug fixing?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 145, "title": "Timeline", "description": "When does the customer expect the project to be released?", "category": "Scope", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 144, "title": "Responsibility", "description": "Whose ass on the customer's is on the line if the project fails utterly?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 143, "title": "Problem", "description": "What problem does this service try to solve?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 142, "title": "Project aim", "description": "What is the aim of the customer with this project?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "Generally something like reduce costs, get more users, retain users, change business model...", "last_modified": "2016-04-21"}, {"id": 141, "title": "Why", "description": "What is the reason the customer wants us to do the project?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 140, "title": "Vision", "description": "What is the long-term vision of the service?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 139, "title": "Release frequency", "description": "How frequent are production releases?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 138, "title": "Product Owner", "description": "How long has the PO been working for the customer organization?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 137, "title": "SW buyer", "description": "Has the customer a long track record of buying software?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 136, "title": "Dependencies", "description": "Can we easily communicate with technical people of services we depend on?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 135, "title": "PO time", "description": "How much time does the PO have available for the project?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 134, "title": "Assets", "description": "How do we get customer assets?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "Think about texts, logo's brand material etc.", "last_modified": "2016-04-21"}, {"id": 133, "title": "Previous projects", "description": "What other projects have we done for the customer and what were the biggest problems?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 132, "title": "Approval", "description": "Who approves the final products?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 131, "title": "Key players", "description": "Who are the key players in the customer organization?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 130, "title": "Agile", "description": "How agile is the customer?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 129, "title": "Digital maturity", "description": "What do we know of the customer digital maturity?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 128, "title": "Public reference", "description": "Is the case a public reference case?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 127, "title": "Feedback", "description": "How do we get customer satisfaction feedback?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 126, "title": "End users", "description": "Who are the end users?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 125, "title": "Happy customer", "description": "What is an outcome that would make the customer jump with joy?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 124, "title": "ROI", "description": "How does the customer get the invested money back?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 123, "title": "Stakeholders", "description": "Do we have access to stakeholders?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 122, "title": "End users", "description": "Do we have access to end users?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 121, "title": "Current service", "description": "What is the current service/application?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 120, "title": "Verify feedback", "description": "How can we verify customer satisfaction from higher up in the organization?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "It can happen that the PO/PM, we are working with is happy, but the higher up management is not.", "last_modified": "2016-04-21"}, {"id": 119, "title": "Autonomy", "description": "Who has autonomy to change the scope, budget or schedule?", "category": "Customer", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 118, "title": "Product Owner", "description": "Who is the PO?", "category": "Customer", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 117, "title": "Overrun Pain", "description": "We spend 250 extra hours on the project. Who pays?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 116, "title": "Special NDA", "description": "Are there any special NDA concerns?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "Like for example is there a 100.000\u20ac damages clause?", "last_modified": "2016-04-21"}, {"id": 115, "title": "LCM plans", "description": "Will there be an LCM continuation?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 114, "title": "Warranty: time", "description": "How long do the warranty obligations last?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 113, "title": "Contract clauses", "description": "Are there any conditional clauses?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "Like we get 20% more if the userbase growth with 10000 daily users.", "last_modified": "2016-04-21"}, {"id": 112, "title": "Sales rate", "description": "What is the sales rate?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 111, "title": "Budget", "description": "What is the budget in person-days?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 110, "title": "Proposal location", "description": "Where is the proposal?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 109, "title": "Contract location", "description": "Where is the contract?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 108, "title": "Contract type", "description": "What is the contract type?", "category": "Contract", "card_type": "Q", "deck": "a", "help_text": "Time and material, Fixed price/scope/schedule, Target price", "last_modified": "2016-04-21"}, {"id": 107, "title": "Deliverables", "description": "What are the deliverables?", "category": "Contract", "card_type": "Q", "deck": "a", "help_text": "", "last_modified": "2016-04-21"}, {"id": 106, "title": "End", "description": "When does the project end?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "When: think about schedule, contract, release activity etc", "last_modified": "2016-04-21"}, {"id": 105, "title": "Warranty", "description": "What is our warranty obligation?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}, {"id": 104, "title": "Warranty: terms", "description": "Who determines which bugs are warranty bugs?", "category": "Contract", "card_type": "Q", "deck": "g", "help_text": "", "last_modified": "2016-04-21"}]
+[
+  {
+    "id": 508,
+    "title": "Incentives interviewee.",
+    "description": "How are interviewees incentivieced?",
+    "category": "",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 507,
+    "title": "NDA interviewee",
+    "description": "Does the interviewee need to sign an NDA?",
+    "category": "",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 506,
+    "title": "Interview location",
+    "description": "Where do the interviews take place?",
+    "category": "",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 505,
+    "title": "End user recruitment.",
+    "description": "Who does the end user recruitement for user interviews?",
+    "category": "",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 504,
+    "title": "Contact point customer?",
+    "description": "Who in the team is the contact point for the customer?",
+    "category": "",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 503,
+    "title": "Visuals in SVS?",
+    "description": "Are visuals part of the SVS deliverables?",
+    "category": "",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 502,
+    "title": "Prototypes in SVS?",
+    "description": "Are prototypes part of the SVS deliverables?",
+    "category": "",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 501,
+    "title": "Right people.",
+    "description": "Can we have the right people to cover all aspects in the SVS: desirability, feasability, viability?",
+    "category": "",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 500,
+    "title": "Customer in SVS.",
+    "description": "Who of the customer is part of the SVS and how much?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 499,
+    "title": "Customer in SVS",
+    "description": "Is the customer part of the SVS?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 498,
+    "title": "Contact end users.",
+    "description": "How can we contact the end users?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 497,
+    "title": "Unfettered access.",
+    "description": "Can we contact the end users directly or does the customer act as proxy?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 496,
+    "title": "Access to end users.",
+    "description": "Do we have direct access to end users?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Essential for SVS/concepting, important for other project types.",
+    "last_modified": "2016-07-05"
+  },
+  {
+    "id": 495,
+    "title": "PM triangle",
+    "description": "What are the constraints?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "Schedule, Scope, Budget.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 484,
+    "title": "Outside scope",
+    "description": "What is the biggest thing which is outside the scope of this project",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 483,
+    "title": "Service in 1 year",
+    "description": "What will the service be in 1 year, 2 years from now",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 482,
+    "title": "All parts",
+    "description": "Are all parts, required to make the service work, budgeted for?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "All mobile platforms, backend services, Gateways, CI systems, .....",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 481,
+    "title": "Availablility",
+    "description": "What is the availability of the team members?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 480,
+    "title": "Waste",
+    "description": "What has been the most wasteful activity so far?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 479,
+    "title": "Learning",
+    "description": "If you had one week for somebody in the team to learn something. Who and what would that be?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 478,
+    "title": "Best thing",
+    "description": "What has been the best decision we have made since the start of the project?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 477,
+    "title": "Twice as happy",
+    "description": "If we could have done things differently, what would have made the customer twice as happy?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 476,
+    "title": "Reccommend",
+    "description": "What practise from this project would you recommend every singe other project to adopt?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 475,
+    "title": "Concept history",
+    "description": "Do we know how we ended up with the current concept?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 474,
+    "title": "Design approval",
+    "description": "Are there any other parties in the customer organisation who have to approve the designs?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 473,
+    "title": "Business case",
+    "description": "Have we challenged the business case?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 472,
+    "title": "Concept",
+    "description": "Have we challenged the concept?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 471,
+    "title": "Challenge brand",
+    "description": "Have we challenged the brand guidelines",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 470,
+    "title": "Partial concept",
+    "description": "Does the customer know which part of the concept will be implemented first?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 469,
+    "title": "Design review",
+    "description": "Have the designs been reviewed by the developers/PO?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 468,
+    "title": "PS project",
+    "description": "Is the photoshop (or other design) project file on drive?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 467,
+    "title": "Share assets",
+    "description": "How to we stare/share/version control assets?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 466,
+    "title": "Assets to developers",
+    "description": "Do the developers have all assets?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 465,
+    "title": "Possible",
+    "description": "Are all designs possible (or easy enough) to implement?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 464,
+    "title": "Design review",
+    "description": "Have the designs been peer reviewed by other futu designers",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 463,
+    "title": "Design approval",
+    "description": "Have all stakeholders approved the designs?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 462,
+    "title": "Disign awareness",
+    "description": "Have all stakeholders seen the designs?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 461,
+    "title": "Brand",
+    "description": "Is our design aligned with the brand",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 459,
+    "title": "PO incentives",
+    "description": "What are the incentives for the PO?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Think also about bonus schemes, personal ambition etc.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 458,
+    "title": "Release",
+    "description": "Is there anything unknown about the release process?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Test release build process, walk through acceptance and deployment/store release steps. ",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 457,
+    "title": "Postpone",
+    "description": "Is there anything in the backlog which could be postponed to the next release?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 456,
+    "title": "Weekend work",
+    "description": "What is the agreement about weekend work?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Who decides, how to avoid undue peer pressure, any extra compensation?",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 451,
+    "title": "Confidentiality",
+    "description": "What can I tell inside Futurice?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 450,
+    "title": "Sensitive data",
+    "description": "Does the project include any sensitive personal data?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 449,
+    "title": "Open source clause",
+    "description": "Does the contract include our open source clause?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 448,
+    "title": "Open source licences",
+    "description": "What are allowed/forbidden open source licenses?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 447,
+    "title": "Libraries",
+    "description": "Is there any limitations when in comes to choosing libraries, frameworks etc.?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Some organisation have limitations in the shape of a blacklist (or whitelist) for 3rd party libraries.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 446,
+    "title": "IPR ownership",
+    "description": "Who own the Intellectual property rights?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 445,
+    "title": "Working location",
+    "description": "Does the contract stipulate where the work should be carried out?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 444,
+    "title": "Obligations",
+    "description": "What, if any, are the contractual obligation the customer has to fullfill to enable project success?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Think about required upstream changes, delivered information, PO availability",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 443,
+    "title": "Communciation",
+    "description": "What is the most important thing to improve related to inside team communication?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 442,
+    "title": "Onboarding",
+    "description": "What information was missing from the onboarding?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "If there are people who joined after the project started.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 441,
+    "title": "Contraints",
+    "description": "What is the most significant change in the constraints since the beginning? ",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "Budget, scope, schedule",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 440,
+    "title": "Backlog",
+    "description": "How happy are we with the backlog? How can we make it better?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 439,
+    "title": "Value driven",
+    "description": "Are we working on the most valuable item?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 438,
+    "title": "Feedback",
+    "description": "What is the most relevant feedback have we received from the end-user so far?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 437,
+    "title": "Cancelled",
+    "description": "If the customer would decide to cancel the project what would be the reason?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 436,
+    "title": "Disappointment",
+    "description": "In what way have we most disappointed the customer?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 435,
+    "title": "Team forming",
+    "description": "How well is the team working as a team and how could it be better?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 434,
+    "title": "Haven't told",
+    "description": "What is the biggest thing we haven't told the customer.",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 432,
+    "title": "Time left",
+    "description": "Based on the current burnrate how long will the budget still last",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 431,
+    "title": "Value creation",
+    "description": "What is the most valuable thing we have done for the customer so far?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 430,
+    "title": "Customer",
+    "description": "What is the most surprising thing you learned about the customer?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 429,
+    "title": "Team change",
+    "description": "What in the team set up would you most like to change?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 428,
+    "title": "Tech change",
+    "description": "What technological aspect would you most like to change?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 427,
+    "title": "Assumptions",
+    "description": "Are there any assumptions you made in the beginning which did not hold and what is the impact?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 426,
+    "title": "Travel",
+    "description": "If the project crosses borders, what is the plan with regards to traveling?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 425,
+    "title": "Other costs",
+    "description": "Who pays for project expenses (think of travel, licence and other costs)",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 424,
+    "title": "Multiple locations",
+    "description": "If your team is not all sitting at the same location, how often do you co-locate or rotate team members?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 423,
+    "title": "New information",
+    "description": "If we knew at the start what we know now, what would we have done different?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 422,
+    "title": "Technical debt",
+    "description": "Is the amount of technical debt we have created acceptable?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 421,
+    "title": "Things to change",
+    "description": "What 3 things would you like to change?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 420,
+    "title": "Team motivation",
+    "description": "What direction is the team motivation going?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 419,
+    "title": "Happy customer",
+    "description": "Is the customer happier than at the start of the project?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 418,
+    "title": "Surprises",
+    "description": "What has been the biggest surprise in the project so far?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 417,
+    "title": "Team changes",
+    "description": "What is the difference between the onboaring of original team memebers vs those who joined later on?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 416,
+    "title": "Business case",
+    "description": "Compared to the beginning, what has changed in the customer's business case?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 415,
+    "title": "Continue",
+    "description": "Why should we continue with the project",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 414,
+    "title": "Budget",
+    "description": "Are we currently ahead or behind our expectations from the beginning of the project.",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "Think about budget, scope and schedule.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 413,
+    "title": "What changed?",
+    "description": "Compared to the beginning, what is the most important thing that has changed?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "r",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 230,
+    "title": "Getting in the flow",
+    "description": "How do you help others get into the flow?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "You can make agreements about disturbing, working hours when to plan meetings etc.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 229,
+    "title": "Burnrate",
+    "description": "When the team is fully running how much budget is used per week?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Fully running means the team after ramp-up so based on the normal allocation of the team.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 228,
+    "title": "Credentials",
+    "description": "Do all team members have all relevant credentials",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 227,
+    "title": "Scrum budget",
+    "description": "How much budget/time is reserved for retrospectives/ scrum activities?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 226,
+    "title": "UAT support",
+    "description": "How much budget/time is reserved for supporting user acceptance testing?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 225,
+    "title": "Deployment",
+    "description": "How much budget/time is reserved for deployment to production?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 224,
+    "title": "Cancel",
+    "description": "What are the most likely scenarios in which the customer would cancel the entire project?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 223,
+    "title": "Extra work",
+    "description": "How de we avoid doing extra work (not part of what is agreed) for free?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 222,
+    "title": "PM budget",
+    "description": "How much budget is reserved for PM services?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "PM services are things like invoicing, reporting, meetings, finding new team members, ....",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 221,
+    "title": "PM services",
+    "description": "What PM services are required to be done by the team? And is this budgeted?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Think about invoicing, reporting, meetings, finding new team members, ....",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 220,
+    "title": "QA roles",
+    "description": "Are their dedicated QA specialists available and what is their role? ",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 219,
+    "title": "Our motivation",
+    "description": "Why don't we just walk away from the project?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 216,
+    "title": "QA Budget",
+    "description": "How much budget is reserved for QA?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 206,
+    "title": "Easier",
+    "description": "Given the business objectives and constraints, can the projet be done easier?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "If there is something, there could be a lack of understanding.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 205,
+    "title": "Reporting",
+    "description": "What is expected in terms of progress reporting?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 204,
+    "title": "Product backlog",
+    "description": "Who does the invoicing?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 203,
+    "title": "Sprint backlog",
+    "description": "Where is the sprint backlog?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 202,
+    "title": "Hour marking",
+    "description": "How should the hours be marked?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 201,
+    "title": "Remote work",
+    "description": "Can we work remotely on Friday?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 200,
+    "title": "Previous projects",
+    "description": "What case in Futuhistory most resembles this case and what where the biggest problems?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 199,
+    "title": "Tech knowhow",
+    "description": "How well does the customer understand tech?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 198,
+    "title": "Distance to PO",
+    "description": "How far are we sitting from the PO?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 197,
+    "title": "Tools",
+    "description": "Is there a limitation on which tools we can use for backlog management?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 196,
+    "title": "Tools",
+    "description": "Is there a limitation on which tools we can use for issue tracking?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 195,
+    "title": "New team member",
+    "description": "Scenario: A new team member joins. How long does it take that person to be up to speed?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 194,
+    "title": "Environment",
+    "description": "How much control do we have on the working environment?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 193,
+    "title": "Demos",
+    "description": "Who is present during the demos?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 192,
+    "title": "Demo frequency",
+    "description": "How often do we have a demo?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 191,
+    "title": "Metrics",
+    "description": "Which metrics do we use to track the projects?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 190,
+    "title": "Optimism",
+    "description": "When estimating how can we temper our own optimism?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 189,
+    "title": "DoD",
+    "description": "What is the definition of done?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 188,
+    "title": "Sprint length",
+    "description": "How long are the sprints?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 187,
+    "title": "Retrospectives",
+    "description": "How often do we schedule retrospectives and who arranges them?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 186,
+    "title": "Product backlog",
+    "description": "Who can add/remove items from the product backlog?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 185,
+    "title": "Product backlog",
+    "description": "Where is the product backlog?",
+    "category": "Way",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 184,
+    "title": "Legacy code",
+    "description": "What is the quality of the current codebase?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 183,
+    "title": "Repository",
+    "description": "Where is the code?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 182,
+    "title": "Dependencies",
+    "description": "Can we influence the features of dependent services?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Can we modify/ add an api we are using?",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 181,
+    "title": "3rd Party libraries",
+    "description": "Are we free to choose frameworks, libraries etc.?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 180,
+    "title": "End2End",
+    "description": "What is needed to get a working E2E environment?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 179,
+    "title": "Documentation",
+    "description": "What documentation is required?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 178,
+    "title": "Dependencies",
+    "description": "What are the external dependencies?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 177,
+    "title": "First release",
+    "description": "What is needs to be set up before we can deliver the first working software?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 176,
+    "title": "Customer brand",
+    "description": "Do we have brand guidelines?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 175,
+    "title": "Release",
+    "description": "Who releases the application to the store?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 174,
+    "title": "Deployment",
+    "description": "Are we able to deploy on production?",
+    "category": "Tech",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 173,
+    "title": "Account mngr",
+    "description": "Who is the account manager?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 172,
+    "title": "Support team",
+    "description": "Who is supporting the team?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 171,
+    "title": "Core team",
+    "description": "Who is part of the core team?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 170,
+    "title": "Other commitments",
+    "description": "What other commitments does the team have?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 169,
+    "title": "Industry",
+    "description": "What do we know of the industry?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 168,
+    "title": "Team size",
+    "description": "Are there any planned changes in the team size?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 167,
+    "title": "Plans",
+    "description": "Does anybody in the team have holidays/absences planned?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 166,
+    "title": "Experience",
+    "description": "How well do we know the technology used?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 165,
+    "title": "Experience",
+    "description": "How much experience do we have with this type of project?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "This is related to the project setup not the technology or other competences used",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 164,
+    "title": "No sayer",
+    "description": "If the customer pushes for more features on top of the agreed scope, who will say no to them?",
+    "category": "Team",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Saying no is not easy, think if you are comfortable saying no.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 163,
+    "title": "Biggest concern",
+    "description": "What is the biggest concern of the PO?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 162,
+    "title": "PM Triangle",
+    "description": "What is most important schedule, scope or budget?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "If there is a problem. Is the customer more likely to add people, remove feature or extend deadline?",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 161,
+    "title": "Platform support",
+    "description": "A new client OS is released during the project: are updates due to this in or outside the scope?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 160,
+    "title": "Known Unknowns",
+    "description": "What is the biggest unknown in the project?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 159,
+    "title": "MoSCoW",
+    "description": "Which fraction of the backlog is must vs. should or could?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 158,
+    "title": "Deadline",
+    "description": "Is there any hard deadline?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Think about media campaigns, special events, seasonal buying related to the service?",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 157,
+    "title": "Lifetime service",
+    "description": "How long is the service expected to be used?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 156,
+    "title": "Platform support",
+    "description": "Which OS/platform/\u2026 versions do we support?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 155,
+    "title": "Delay impact",
+    "description": "What happens to the customer's business case if the release is a month later?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 154,
+    "title": "Release planning",
+    "description": "How far from the launch day are we when we have burned half of the total budget?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 153,
+    "title": "Project end",
+    "description": "When is the project finished?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 152,
+    "title": "Scope change",
+    "description": "How do we know if something is outside the scope?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 151,
+    "title": "Scope change",
+    "description": "Who negotiates scope changes?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 150,
+    "title": "Underestimate",
+    "description": "If an item is larger than was estimated during sprint planning, what is most likely to happen?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 149,
+    "title": "Revenue",
+    "description": "How much does the customer expect to spend on Futurice before the end of the project?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 148,
+    "title": "Budget check",
+    "description": "How often do we check how we are doing on budget?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 147,
+    "title": "Timeline",
+    "description": "How much budget do we expect to be used before we deliver the first working version?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 146,
+    "title": "Timeline",
+    "description": "How much time is there reserved for bug fixing?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 145,
+    "title": "Timeline",
+    "description": "When does the customer expect the project to be released?",
+    "category": "Scope",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 144,
+    "title": "Responsibility",
+    "description": "Whose ass on the customer's is on the line if the project fails utterly?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 143,
+    "title": "Problem",
+    "description": "What problem does this service try to solve?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 142,
+    "title": "Project aim",
+    "description": "What is the aim of the customer with this project?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "Generally something like reduce costs, get more users, retain users, change business model...",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 141,
+    "title": "Why",
+    "description": "What is the reason the customer wants us to do the project?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 140,
+    "title": "Vision",
+    "description": "What is the long-term vision of the service?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 139,
+    "title": "Release frequency",
+    "description": "How frequent are production releases?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 138,
+    "title": "Product Owner",
+    "description": "How long has the PO been working for the customer organization?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 137,
+    "title": "SW buyer",
+    "description": "Has the customer a long track record of buying software?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 136,
+    "title": "Dependencies",
+    "description": "Can we easily communicate with technical people of services we depend on?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 135,
+    "title": "PO time",
+    "description": "How much time does the PO have available for the project?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 134,
+    "title": "Assets",
+    "description": "How do we get customer assets?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Think about texts, logo's brand material etc.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 133,
+    "title": "Previous projects",
+    "description": "What other projects have we done for the customer and what were the biggest problems?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 132,
+    "title": "Approval",
+    "description": "Who approves the final products?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 131,
+    "title": "Key players",
+    "description": "Who are the key players in the customer organization?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 130,
+    "title": "Agile",
+    "description": "How agile is the customer?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 129,
+    "title": "Digital maturity",
+    "description": "What do we know of the customer digital maturity?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 128,
+    "title": "Public reference",
+    "description": "Is the case a public reference case?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 127,
+    "title": "Feedback",
+    "description": "How do we get customer satisfaction feedback?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 126,
+    "title": "End users",
+    "description": "Who are the end users?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 125,
+    "title": "Happy customer",
+    "description": "What is an outcome that would make the customer jump with joy?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 124,
+    "title": "ROI",
+    "description": "How does the customer get the invested money back?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 123,
+    "title": "Stakeholders",
+    "description": "Do we have access to stakeholders?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 122,
+    "title": "End users",
+    "description": "Do we have access to end users?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 121,
+    "title": "Current service",
+    "description": "What is the current service/application?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 120,
+    "title": "Verify feedback",
+    "description": "How can we verify customer satisfaction from higher up in the organization?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "It can happen that the PO/PM, we are working with is happy, but the higher up management is not.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 119,
+    "title": "Autonomy",
+    "description": "Who has autonomy to change the scope, budget or schedule?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 118,
+    "title": "Product Owner",
+    "description": "Who is the PO?",
+    "category": "Customer",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 117,
+    "title": "Overrun Pain",
+    "description": "We spend 250 extra hours on the project. Who pays?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 116,
+    "title": "Special NDA",
+    "description": "Are there any special NDA concerns?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Like for example is there a 100.000\u20ac damages clause?",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 115,
+    "title": "LCM plans",
+    "description": "Will there be an LCM continuation?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 114,
+    "title": "Warranty: time",
+    "description": "How long do the warranty obligations last?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 113,
+    "title": "Contract clauses",
+    "description": "Are there any conditional clauses?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "Like we get 20% more if the userbase growth with 10000 daily users.",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 112,
+    "title": "Sales rate",
+    "description": "What is the sales rate?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 111,
+    "title": "Budget",
+    "description": "What is the budget in person-days?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 110,
+    "title": "Proposal location",
+    "description": "Where is the proposal?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 109,
+    "title": "Contract location",
+    "description": "Where is the contract?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 108,
+    "title": "Contract type",
+    "description": "What is the contract type?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "Time and material, Fixed price/scope/schedule, Target price",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 107,
+    "title": "Deliverables",
+    "description": "What are the deliverables?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "a",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 106,
+    "title": "End",
+    "description": "When does the project end?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "When: think about schedule, contract, release activity etc",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 105,
+    "title": "Warranty",
+    "description": "What is our warranty obligation?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  },
+  {
+    "id": 104,
+    "title": "Warranty: terms",
+    "description": "Who determines which bugs are warranty bugs?",
+    "category": "Contract",
+    "card_type": "Q",
+    "deck": "g",
+    "help_text": "",
+    "last_modified": "2016-04-21"
+  }
+]
