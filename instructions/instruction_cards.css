@@ -12,23 +12,44 @@
 
 }
 
-.page {
-    text-align: center;
+p {
+    text-align: left;
     font-size: 18px;
-    font-family: "proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family: "SharpSansNo1-Light","Helvetica Neue";
     font-weight: 300;
     line-height: 1.4;
     color: #210f04;
     vertical-align: middle;
     align-content: center;
     padding: 10mm;
-
-    margin-top: 10mm;
+	margin-top: 10mm;
     margin-bottom: 10mm;
     margin-left: auto;
     margin-right: auto;
 }
 
+h1 {
+	text-align:left;
+	font-size: 36px;
+	font-family:"SharpSansNo1-Black";
+	font-weight:300;
+	line-height: 1.4;
+	color: black;
+	vertical-align:middle;
+	padding:10mm;
+}
+
+h2 {
+	text-align:left;
+	font-size: 21px;
+	font-family:"SharpSansNo1-Black";
+	font-weight:300;
+	line-height: 1.4;
+	color: #3a913f;
+	vertical-align:middle;
+	padding:10mm;
+}
+	
 table {
 
     text-align: left;
@@ -39,9 +60,19 @@ table {
 
 }
 
-td {
+th, td {
     border-style: solid;
     border-color: darkgray;
     border-width: 1px;
+	padding: 15px;
+    text-align: left;
+	font-family:"SharpSansNo1-Light"
+
+}
+
+ul li {
+ 
+	font-family:"SharpSansNo1-Light";
+	font-size:14px;
 
 }
