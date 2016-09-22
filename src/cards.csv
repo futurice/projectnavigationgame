@@ -1,12 +1,12 @@
 id,title,description,deck,help_text
-508,Incentives.,How are interviewees incentiviced?,g,
+508,Incentives.,How are interviewees incentivised?,g,
 507,NDA interviewee,Does the interviewee need to sign an NDA?,g,
 506,Interview location,Where do the interviews take place?,g,
-505,End user recruitment.,Who does the end user recruitement for user interviews?,g,
+505,End user recruitment.,Who does the end user recruitment for user interviews?,g,
 504,Contact point customer?,Who in the team is the contact point for the customer?,g,
 503,Visuals in SVS?,Are visuals part of the SVS deliverables?,g,
 502,Prototypes in SVS?,Are prototypes part of the SVS deliverables?,g,
-501,Right people.,"Can we have the right people to cover all aspects in the SVS: desirability, feasability, viability?",g,
+501,Right people.,"Can we have the right people to cover all aspects in the SVS: desirability, feasibility, viability?",g,
 500,Customer in SVS.,Who of the customer is part of the SVS and how much?,g,
 499,Customer in SVS,Is the customer part of the SVS?,g,
 498,Contact end users.,How can we contact the end users?,g,
@@ -15,13 +15,13 @@ id,title,description,deck,help_text
 495,PM triangle,What are the constraints?,a,"Schedule, Scope, Budget."
 484,Outside scope,What is the biggest thing which is outside the scope of this project,a,
 483,Service in 1 year,"What will the service be in 1 year, 2 years from now",g,
-482,All parts,"Are all parts, required to make the service work, budgeted for?",a,"All mobile platforms, backend services, Gateways, CI systems, ....."
-481,Availablility,What is the availability of the team members?,a,
+482,All parts,"Are all parts, required to make the service work, budgeted for?",a,"All mobile platforms, back-end services, Gateways, CI systems, ....."
+481,Availability,What is the availability of the team members?,a,
 480,Waste,What has been the most wasteful activity so far?,r,
 479,Learning,If you had one week for somebody in the team to learn something. Who and what would that be?,r,
 478,Best thing,What has been the best decision we have made since the start of the project?,r,
 477,Twice as happy,"If we could have done things differently, what would have made the customer twice as happy?",r,
-476,Reccommend,What practise from this project would you recommend every singe other project to adopt?,r,
+476,Recommend,What practise from this project would you recommend every single other project to adopt?,r,
 475,Concept history,Do we know how we ended up with the current concept?,g,
 474,Design approval,Are there any other parties in the customer organisation who have to approve the designs?,g,
 473,Business case,Have we challenged the business case?,g,
@@ -29,13 +29,13 @@ id,title,description,deck,help_text
 471,Challenge brand,Have we challenged the brand guidelines,g,
 470,Partial concept,Does the customer know which part of the concept will be implemented first?,g,
 469,Design review,Have the designs been reviewed by the developers/PO?,g,
-468,PS project,Is the photoshop (or other design) project file on drive?,g,
-467,Share assets,How to we stare/share/version control assets?,g,
+468,PS project,Is the Photoshop (or other design) project file on drive?,g,
+467,Share assets,How to we store/share/version control assets?,g,
 466,Assets to developers,Do the developers have all assets?,g,
 465,Possible,Are all designs possible (or easy enough) to implement?,g,
-464,Design review,Have the designs been peer reviewed by other futu designers,g,
-463,Design approval,Have all stakeholders approved the designs?,g,
-462,Disign awareness,Have all stakeholders seen the designs?,g,
+464,Design review,Have the designs been peer reviewed by other Futu designers,g,
+463,Design approval,Have all the stakeholders approved the designs?,g,
+462,Design awareness,Have all the stakeholders seen the designs?,g,
 461,Brand,Is our design aligned with the brand,g,
 459,PO incentives,What are the incentives for the PO?,g,"Think also about bonus schemes, personal ambition etc."
 458,Release,Is there anything unknown about the release process?,g,"Test release build process, walk through acceptance and deployment/store release steps. "
@@ -45,27 +45,27 @@ id,title,description,deck,help_text
 450,Sensitive data,Does the project include any sensitive personal data?,g,
 449,Open source clause,Does the contract include our open source clause?,g,
 448,Open source licences,What are allowed/forbidden open source licenses?,g,
-447,Libraries,"Is there any limitations when in comes to choosing libraries, frameworks etc.?",g,Some organisation have limitations in the shape of a blacklist (or whitelist) for 3rd party libraries.
+447,Libraries,"Is there any limitations when in comes to choosing libraries, frameworks etc.?",g,Some organisation have limitations in the form of a blacklist (or white-list) for 3rd party libraries.
 446,IPR ownership,Who own the Intellectual property rights?,g,
 445,Working location,Does the contract stipulate where the work should be carried out?,g,
-444,Obligations,"What, if any, are the contractual obligation the customer has to fullfill to enable project success?",g,"Think about required upstream changes, delivered information, PO availability"
-443,Communciation,What is the most important thing to improve related to inside team communication?,r,
-442,Onboarding,What information was missing from the onboarding?,r,If there are people who joined after the project started.
-441,Contraints,What is the most significant change in the constraints since the beginning? ,r,"Budget, scope, schedule"
+444,Obligations,"What, if any, are the contractual obligation the customer has to fulfil to enable project success?",g,"Think about required upstream changes, delivered information, PO availability"
+443,Communication,What is the most important thing to improve related to inside team communication?,r,
+442,On-boarding,What information was missing from the on-boarding?,r,If there are people who joined after the project started.
+441,Constraints,What is the most significant change in the constraints since the beginning? ,r,"Budget, scope, schedule"
 440,Backlog,How happy are we with the backlog? How can we make it better?,r,
 439,Value driven,Are we working on the most valuable item?,r,
-438,Feedback,What is the most relevant feedback have we received from the end-user so far?,r,
+438,Feedback,What is the most relevant feedback we have received from the end-user so far?,r,
 437,Cancelled,If the customer would decide to cancel the project what would be the reason?,g,
-436,Disappointment,In what way have we most disappointed the customer?,r,
+436,Disappointment,In which way have we disappointed the customer the most?,r,
 435,Team forming,How well is the team working as a team and how could it be better?,r,
 434,Haven't told,What is the biggest thing we haven't told the customer.,r,
-432,Time left,Based on the current burnrate how long will the budget still last,r,
+432,Time left,Based on the current burn-rate how long will the budget still last,r,
 431,Value creation,What is the most valuable thing we have done for the customer so far?,r,
 430,Customer,What is the most surprising thing you learned about the customer?,r,
 429,Team change,What in the team set up would you most like to change?,r,
-428,Tech change,What technological aspect would you most like to change?,r,
+428,Tech. change,What technological aspect would you most like to change?,r,
 427,Assumptions,Are there any assumptions you made in the beginning which did not hold and what is the impact?,r,
-426,Travel,"If the project crosses borders, what is the plan with regards to traveling?",g,
+426,Travel,"If the project crosses borders, what is the plan with regards to travelling?",g,
 425,Other costs,"Who pays for project expenses (think of travel, licence and other costs)",g,
 424,Multiple locations,"If your team is not all sitting at the same location, how often do you co-locate or rotate team members?",g,
 423,New information,"If we knew at the start what we know now, what would we have done different?",r,
@@ -74,32 +74,32 @@ id,title,description,deck,help_text
 420,Team motivation,What direction is the team motivation going?,r,
 419,Happy customer,Is the customer happier than at the start of the project?,r,
 418,Surprises,What has been the biggest surprise in the project so far?,r,
-417,Team changes,What is the difference between the onboaring of original team memebers vs those who joined later on?,r,
+417,Team changes,What is the difference between the on-boarding of original team members vs. those who joined later on?,r,
 416,Business case,"Compared to the beginning, what has changed in the customer's business case?",r,
 415,Continue,Why should we continue with the project,r,
 414,Budget,Are we currently ahead or behind our expectations from the beginning of the project.,r,"Think about budget, scope and schedule."
 413,What changed?,"Compared to the beginning, what is the most important thing that has changed?",r,
 230,Getting in the flow,How do you help others get into the flow?,g,"You can make agreements about disturbing, working hours when to plan meetings etc."
-229,Burnrate,When the team is fully running how much budget is used per week?,g,Fully running means the team after ramp-up so based on the normal allocation of the team.
-228,Credentials,Do all team members have all relevant credentials,g,
+229,Burn-rate,When the team is fully running how much budget is used per week?,g,Fully running means the team after ramp-up so based on the normal allocation of the team.
+228,Credentials,Do all the team members have all the relevant credentials,g,
 227,Scrum budget,How much budget/time is reserved for retrospectives/ scrum activities?,g,
 226,UAT support,How much budget/time is reserved for supporting user acceptance testing?,g,
 225,Deployment,How much budget/time is reserved for deployment to production?,g,
 224,Cancel,What are the most likely scenarios in which the customer would cancel the entire project?,g,
-223,Extra work,How de we avoid doing extra work (not part of what is agreed) for free?,g,
+223,Extra work,How do we avoid doing extra work (not part of what is agreed) for free?,g,
 222,PM budget,How much budget is reserved for PM services?,g,"PM services are things like invoicing, reporting, meetings, finding new team members, ...."
 221,PM services,What PM services are required to be done by the team? And is this budgeted?,g,"Think about invoicing, reporting, meetings, finding new team members, ...."
-220,QA roles,Are their dedicated QA specialists available and what is their role? ,g,
+220,QA roles,Are there dedicated QA specialists available and what is their role? ,g,
 219,Our motivation,Why don't we just walk away from the project?,g,
 216,QA Budget,How much budget is reserved for QA?,g,
-206,Easier,"Given the business objectives and constraints, can the projet be done easier?",g,"If there is something, there could be a lack of understanding."
+206,Easier,"Given the business objectives and constraints, can the project be done easier?",g,"If there is something, there could be a lack of understanding."
 205,Reporting,What is expected in terms of progress reporting?,g,
 204,Product backlog,Who does the invoicing?,g,
 203,Sprint backlog,Where is the sprint backlog?,g,
 202,Hour marking,How should the hours be marked?,g,
 201,Remote work,Can we work remotely on Friday?,g,
 200,Previous projects,What case in Futuhistory most resembles this case and what where the biggest problems?,g,
-199,Tech knowhow,How well does the customer understand tech?,g,
+199,Tech. know-how,How well does the customer understand tech.?,g,
 198,Distance to PO,How far are we sitting from the PO?,g,
 197,Tools,Is there a limitation on which tools we can use for backlog management?,g,
 196,Tools,Is there a limitation on which tools we can use for issue tracking?,g,
@@ -114,7 +114,7 @@ id,title,description,deck,help_text
 187,Retrospectives,How often do we schedule retrospectives and who arranges them?,g,
 186,Product backlog,Who can add/remove items from the product backlog?,g,
 185,Product backlog,Where is the product backlog?,a,
-184,Legacy code,What is the quality of the current codebase?,g,
+184,Legacy code,What is the quality of the current code base?,g,
 183,Repository,Where is the code?,g,
 182,Dependencies,Can we influence the features of dependent services?,g,Can we modify/ add an api we are using?
 181,3rd Party libraries,"Are we free to choose frameworks, libraries etc.?",g,
@@ -125,7 +125,7 @@ id,title,description,deck,help_text
 176,Customer brand,Do we have brand guidelines?,g,
 175,Release,Who releases the application to the store?,g,
 174,Deployment,Are we able to deploy on production?,g,
-173,Account mngr,Who is the account manager?,g,
+173,Account manager,Who is the account manager?,g,
 172,Support team,Who is supporting the team?,g,
 171,Core team,Who is part of the core team?,g,
 170,Other commitments,What other commitments does the team have?,a,
@@ -133,7 +133,7 @@ id,title,description,deck,help_text
 168,Team size,Are there any planned changes in the team size?,g,
 167,Plans,Does anybody in the team have holidays/absences planned?,g,
 166,Experience,How well do we know the technology used?,a,
-165,Experience,How much experience do we have with this type of project?,g,This is related to the project setup not the technology or other competences used
+165,Experience,How much experience do we have with this type of project?,g,This is related to the project set-up not the technology or other competences used
 164,No sayer,"If the customer pushes for more features on top of the agreed scope, who will say no to them?",g,"Saying no is not easy, think if you are comfortable saying no."
 163,Biggest concern,What is the biggest concern of the PO?,a,
 162,PM Triangle,"What is most important schedule, scope or budget?",g,"If there is a problem. Is the customer more likely to add people, remove feature or extend deadline?"
@@ -185,13 +185,13 @@ id,title,description,deck,help_text
 116,Special NDA,Are there any special NDA concerns?,g,Like for example is there a 100.000� damages clause?
 115,LCM plans,Will there be an LCM continuation?,g,
 114,Warranty: time,How long do the warranty obligations last?,g,
-113,Contract clauses,Are there any conditional clauses?,g,Like we get 20% more if the userbase growth with 10000 daily users.
+113,Contract clauses,Are there any conditional clauses?,g,Like we get 20% more if the user base growth with 10000 daily users.
 112,Sales rate,What is the sales rate?,g,
 111,Budget,What is the budget in person-days?,g,
 110,Proposal location,Where is the proposal?,g,
 109,Contract location,Where is the contract?,g,
 108,Contract type,What is the contract type?,a,"Time and material, Fixed price/scope/schedule, Target price"
 107,Deliverables,What are the deliverables?,a,
-106,End,When does the project end?,g,"When: think about schedule, contract, release activity etc"
+106,End,When does the project end?,g,"When: think about schedule, contract, release activity etc."
 105,Warranty,What is our warranty obligation?,g,
 104,Warranty: terms,Who determines which bugs are warranty bugs?,g,
