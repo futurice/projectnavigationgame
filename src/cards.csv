@@ -74,7 +74,7 @@ id,title,description,deck,help_text
 420,Team motivation,What direction is the team motivation going?,r,
 419,Happy customer,Is the customer happier than at the start of the project?,r,
 418,Surprises,What has been the biggest surprise in the project so far?,r,
-417,Team changes,What is the difference between the on-boarding of original team members vs. those who joined later on?,r,
+417,Team changes,What is the difference between the on-boarding of original team members vs those who joined later?,r,
 416,Business case,"Compared to the beginning, what has changed in the customer's business case?",r,
 415,Continue,Why should we continue with the project,r,
 414,Budget,Are we currently ahead or behind our expectations from the beginning of the project.,r,"Think about budget, scope and schedule."
