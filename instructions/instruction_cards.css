@@ -52,8 +52,17 @@ h2 {
 	color: #3a913f;
 	vertical-align:middle;
 	padding:5mm;
+
 }
 	
+.zone {
+    padding-top: 1mm;
+    padding-bottom: 1mm;
+
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+}
+
 table {
 
     text-align: left;
