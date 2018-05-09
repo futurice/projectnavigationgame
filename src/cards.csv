@@ -1,249 +1,249 @@
-id;title;description;deck;round;help_text;;
-508;Incentives.;How are interviewees incentivised?;g;2;;;
-507;NDA interviewee;Does the interviewee need to sign an NDA?;g;2;;;
-506;Interview location;Where do the user interviews take place?;g;2;;;
-505;End user recruitment.;Who does the end user recruitment for user interviews?;g;3;;;
-504;Contact point client?;Who in the team is the contact point for the client?;g;3;;;
-503;Visuals in SVS?;Are visuals part of the SVS deliverables?;g;1;;;
-502;Prototypes in SVS?;Are prototypes part of the SVS deliverables?;g;1;;;
-501;Right people.;Can we have the right people to cover all aspects in the SVS: desirability, feasibility, viability?;g;3;;;
-500;Client in SVS.;Who of the client is part of the SVS and how much?;g;3;;;
-499;Client in SVS;Is the client part of the SVS?;g;3;;;
-498;Contact end users.;How can we contact the end users?;g;2;;;
-497;Unfettered access.;Can we contact the end users directly or does the client act as proxy?;g;2;;;
-496;Access to end users.;Do we have direct access to end users?;g;3;Essential for SVS/concepting, important for other project types.;;
-495;PM triangle;What are the constraints?;a;1;Schedule, Scope, Budget.;;
-484;Outside scope;What is the biggest thing which is outside the scope of this project;a;1;;;
-483;Service in 1 year;What will the service be in 1 year, 2 years from now;g;1;;;
-482;All parts;Are all parts, required to make the service work, budgeted for?;a;2;All mobile platforms, back-end services, Gateways, CI systems, .....;;
-481;Availability;What is the availability of the team members?;a;3;;;
-480;Waste;What has been the most wasteful activity so far?;r;3;;;
-479;Learning;If you had one week for somebody in the team to learn something. Who and what would that be?;r;3;;;
-478;Best thing;What has been the best decision we have made since the start of the project?;r;3;;;
-477;Twice as happy;If we could have done things differently, what would have made the client twice as happy?;r;1;;;
-476;Recommend;What practise from this project would you recommend every single other project to adopt?;r;3;;;
-475;Concept history;Do we know how we ended up with the current concept?;g;1;;;
-474;Design approval;Are there any other parties in the client organisation who have to approve the designs?;g;2;;;
-473;Business case;Have we challenged the business case?;g;1;;;
-472;Concept;Have we challenged the concept?;g;1;;;
-471;Challenge brand;Have we challenged the brand guidelines;g;1;;;
-470;Partial concept;Does the client know which part of the concept will be implemented first?;g;2;;;
-469;Design review;Have the designs been reviewed by the developers/PO?;g;2;;;
-468;Design files;Is the master documents (sketch, photoshop, illustrator, and others) on Drive?;g;2;;;
-467;Share assets;How do we store/share/version control assets?;g;2;;;
-466;Assets to developers;Do the developers have all assets?;g;2;;;
-465;Possible;Are all designs possible (or easy enough) to implement?;g;1;;;
-464;Design review;Have the designs been peer reviewed by other Futu designers;g;3;;;
-463;Design approval;Have all the stakeholders approved the designs?;g;1;;;
-462;Design awareness;Have all the stakeholders seen the designs?;g;2;;;
-461;Brand;Is our design aligned with the brand;g;1;;;
-459;PO incentives;What are the incentives for the PO?;g;3;Think also about bonus schemes, personal ambition etc.;;
-458;Release;Is there anything unknown about the release process?;g;2;Test release build process, walk through acceptance and deployment/store release steps. ;;
-457;Postpone;Is there anything in the backlog which could be postponed to the next release?;a;1;;;
-456;Weekend work;What is the agreement about weekend work?;g;2;Who decides, how to avoid undue peer pressure, any extra compensation?;;
-451;Confidentiality;What can I tell inside Futurice?;g;2;;;
-450;Sensitive data;Does the project include any sensitive personal data?;g;2;;;
-449;Open source clause;Does the contract include our open source clause?;g;2;;;
-448;Open source licences;What are allowed/forbidden open source licenses?;g;2;;;
-447;Libraries;Is there any limitations when in comes to choosing libraries, frameworks etc.?;g;2;Some organisation have limitations in the form of a blacklist (or white-list) for 3rd party libraries.;;
-446;IPR ownership;Who own the Intellectual property rights?;g;2;;;
-445;Working location;Does the contract stipulate where the work should be carried out?;g;2;;;
-444;Obligations;What, if any, are the contractual obligation the client has to fulfil to enable project success?;g;1;Think about required upstream changes, delivered information, PO availability;;
-443;Communication;What is the most important thing to improve related to inside team communication?;r;3;;;
-442;On-boarding;What information was missing from the on-boarding?;r;3;If there are people who joined after the project started.;;
-441;Constraints;What is the most significant change in the constraints since the beginning? ;r;1;Budget, scope, schedule;;
-440;Backlog;How happy are we with the backlog? How can we make it better?;r;2;;;
-439;Value driven;Are we working on the most valuable item?;r;1;;;
-438;Feedback;What is the most relevant feedback we have received from the end-user so far?;r;1;;;
-437;Cancelled;If the client would decide to cancel the project what would be the reason?;g;1;;;
-436;Disappointment;In which way have we disappointed the client the most?;r;1;;;
-435;Team forming;How well is the team working as a team and how could it be better?;r;3;;;
-434;Haven't told;What is the biggest thing we haven't told the client.;r;1;;;
-432;Time left;Based on the current burn-rate how long will the budget still last;r;2;;;
-431;Value creation;What is the most valuable thing we have done for the client so far?;r;1;;;
-430;Client;What is the most surprising thing you learned about the client?;r;1;;;
-429;Team change;What in the team set up would you most like to change?;r;3;;;
-428;Tech. change;What technological aspect would you most like to change?;r;2;;;
-427;Assumptions;Are there any assumptions you made in the beginning which did not hold and what is the impact?;r;3;;;
-426;Travel;If the project crosses borders, what is the plan with regards to travelling?;g;2;;;
-425;Other costs;Who pays for project expenses (think of travel, licence and other costs);g;2;;;
-424;Multiple locations;If your team is not all sitting at the same location, how often do you co-locate or rotate team members?;g;3;;;
-423;New information;If we knew at the start what we know now, what would we have done different?;r;3;;;
-422;Technical debt;Is the amount of technical debt we have created acceptable?;r;2;;;
-421;Things to change;What 3 things would you like to change?;r;3;;;
-420;Team motivation;What direction is the team’s motivation going?;r;3;;;
-419;Happy client;Is the client happier than at the start of the project?;r;3;;;
-418;Surprises;What has been the biggest surprise in the project so far?;r;3;;;
-417;Team changes;What is the difference between the on-boarding of original team members vs those who joined later?;r;3;;;
-416;Business case;Compared to the beginning, what has changed in the client's business case?;r;1;;;
-415;Continue;Why should we continue with the project;r;1;;;
-414;Budget;Are we currently ahead or behind our expectations from the beginning of the project.;r;1;Think about budget, scope and schedule.;;
-413;What changed?;Compared to the beginning, what is the most important thing that has changed?;r;3;;;
-230;Getting in the flow;How do you help others get into the flow?;g;3;You can make agreements about disturbing, working hours when to plan meetings etc.;;
-229;Burn-rate;When the team is fully running how much budget is used per week?;g;1;Fully running means the team after ramp-up so based on the normal allocation of the team.;;
-228;Credentials;Do all the team members have all the relevant credentials;g;2;;;
-227;Scrum budget;How much budget/time is reserved for retrospectives/ scrum activities?;g;1;;;
-226;UAT support;How much budget/time is reserved for supporting user acceptance testing?;g;1;;;
-225;Deployment;How much budget/time is reserved for deployment to production?;g;1;;;
-224;Cancel;What are the most likely scenarios in which the client would cancel the entire project?;g;1;;;
-223;Extra work;How do we avoid doing extra work (not part of what is agreed) for free?;g;3;;;
-222;PM budget;How much budget is reserved for PM services?;g;3;PM services are things like invoicing, reporting, meetings, finding new team members, ....;;
-221;PM services;What PM services are required to be done by the team? And is this budgeted?;g;3;Think about invoicing, reporting, meetings, finding new team members, ....;;
-220;QA roles;Are there dedicated QA specialists available and what is their role? ;g;2;;;
-219;Our motivation;Why don't we just walk away from the project?;g;3;;;
-216;QA Budget;How much budget is reserved for QA?;g;1;;;
-206;Easier;Given the business objectives and constraints, can the project be done easier?;g;1;If there is something, there could be a lack of understanding.;;
-205;Reporting;What is expected in terms of progress reporting?;g;1;;;
-204;Product backlog;Who does the invoicing?;g;3;;;
-203;Sprint backlog;Where is the sprint backlog?;g;2;;;
-202;Hour marking;How should the hours be marked?;g;2;;;
-201;Remote work;Can we work remotely on Friday?;g;2;;;
-200;Previous projects;What case in Futuhistory most resembles this case and what where the biggest problems?;g;1;;;
-199;Tech. know-how;How well does the client understand tech.?;g;1;;;
-198;Distance to PO;How far are we sitting from the PO?;g;3;;;
-197;Tools;Is there a limitation on which tools we can use for backlog management?;g;2;;;
-196;Tools;Is there a limitation on which tools we can use for issue tracking?;g;2;;;
-195;New team member;Scenario: A new team member joins. How long does it take that person to be up to speed?;g;3;;;
-194;Environment;How much control do we have on the working environment?;g;2;;;
-193;Demos;Who is present during the demos?;g;3;;;
-192;Demo frequency;How often do we have a demo?;g;2;;;
-191;Metrics;Which metrics do we use to track the projects?;g;3;;;
-190;Optimism;When estimating how can we temper our own optimism?;g;3;;;
-189;DoD;What is the definition of done?;g;2;;;
-188;Sprint length;How long are the sprints?;g;2;;;
-187;Retrospectives;How often do we schedule retrospectives and who arranges them?;g;3;;;
-186;Product backlog;Who can add/remove items from the product backlog?;g;3;;;
-185;Product backlog;Where is the product backlog?;a;2;;;
-184;Legacy code;What is the quality of the current code base?;g;2;;;
-183;Repository;Where is the code?;g;2;;;
-182;Dependencies;Can we influence the features of dependent services?;g;2;Can we modify/ add an api we are using?;;
-181;3rd Party libraries;Are we free to choose frameworks, libraries etc.?;g;2;;;
-180;End2End;What is needed to get a working E2E environment?;g;2;;;
-179;Documentation;What documentation is required?;g;2;;;
-178;Dependencies;What are the external dependencies?;a;2;;;
-177;First release;What is needs to be set up before we can deliver the first working software?;g;2;;;
-176;Client brand;Do we have brand guidelines?;g;2;;;
-175;Release;Who releases the application to the store?;g;3;;;
-174;Deployment;Are we able to deploy on production?;g;2;;;
-173;Account manager;Who is the account manager?;g;3;;;
-172;Support team;Who is supporting the team?;g;3;;;
-171;Core team;Who is part of the core team?;g;3;;;
-170;Other commitments;What other commitments does the team have?;a;3;;;
-169;Industry;What do we know of the industry?;g;1;;;
-168;Team size;Are there any planned changes in the team size?;g;3;;;
-167;Plans;Does anybody in the team have holidays/absences planned?;g;3;;;
-166;Experience;How well do we know the technology used?;a;3;;;
-165;Experience;How much experience do we have with this type of project?;g;3;This is related to the project set-up not the technology or other competences used;;
-164;No sayer;If the client pushes for more features on top of the agreed scope, who will say no to them?;g;3;Saying no is not easy, think if you are comfortable saying no.;;
-163;Biggest concern;What is the biggest concern of the PO?;a;3;;;
-162;PM Triangle;What is most important schedule, scope or budget?;g;1;If there is a problem. Is the client more likely to add people, remove feature or extend deadline?;;
-161;Platform support;A new client OS is released during the project: are updates due to this in or outside the scope?;g;1;;;
-160;Known Unknowns;What is the biggest unknown in the project?;a;3;;;
-159;MoSCoW;Which fraction of the backlog is must vs. should or could?;g;1;;;
-158;Deadline;Is there any hard deadline?;g;2;Think about media campaigns, special events, seasonal buying related to the service?;;
-157;Lifetime service;How long is the service expected to be used?;g;1;;;
-156;Platform support;Which OS/platform/� versions do we support?;g;2;;;
-155;Delay impact;What happens to the client's business case if the release is a month later?;g;1;;;
-154;Release planning;How far from the launch day are we when we have burned half of the total budget?;g;1;;;
-153;Project end;When is the project finished?;a;1;;;
-152;Scope change;How do we know if something is outside the scope?;g;1;;;
-151;Scope change;Who negotiates scope changes?;g;3;;;
-150;Underestimate;If an item is larger than was estimated during sprint planning, what is most likely to happen?;g;2;;;
-149;Revenue;How much does the client expect to spend on Futurice before the end of the project?;g;1;;;
-148;Budget check;How often do we check how we are doing on budget?;g;3;;;
-147;Timeline;How much budget do we expect to be used before we deliver the first working version?;g;1;;;
-146;Timeline;How much time is there reserved for bug fixing?;g;2;;;
-145;Timeline;When does the client expect the project to be released?;g;1;;;
-144;Responsibility;Whose ass on the client's is on the line if the project fails utterly?;g;3;;;
-143;Problem;What problem does this service try to solve?;a;1;;;
-142;Project aim;What is the aim of the client with this project?;a;1;Generally something like reduce costs, get more users, retain users, change business model...;;
-141;Why;What is the reason the client wants us to do the project?;a;1;;;
-140;Vision;What is the long-term vision of the service?;a;1;;;
-139;Release frequency;How frequent are production releases?;g;2;;;
-138;Product Owner;How long has the PO been working for the client organization?;g;3;;;
-137;SW buyer;Has the client a long track record of buying software?;a;1;;;
-136;Dependencies;Can we easily communicate with technical people of services we depend on?;g;2;;;
-135;PO time;How much time does the PO have available for the project?;g;3;;;
-134;Assets;How do we get client assets?;g;2;Think about texts, logo's brand material etc.;;
-133;Previous projects;What other projects have we done for the client and what were the biggest problems?;g;1;;;
-132;Approval;Who approves the final products?;a;3;;;
-131;Key players;Who are the key players in the client organization?;a;3;;;
-130;Agile;How agile is the client?;g;3;;;
-129;Digital maturity;What do we know of the client digital maturity?;a;1;;;
-128;Public reference;Is the case a public reference case?;a;2;;;
-127;Feedback;How do we get client satisfaction feedback?;g;2;;;
-126;End users;Who are the end users?;g;1;;;
-125;Happy client;What is an outcome that would make the client jump with joy?;a;3;;;
-124;ROI;How does the client get the invested money back?;a;1;;;
-123;Stakeholders;Do we have access to stakeholders?;g;3;;;
-122;End users;Do we have access to end users?;g;2;;;
-121;Current service;What is the current service/application?;g;2;;;
-120;Verify feedback;How can we verify client satisfaction from higher up in the organization?;g;1;It can happen that the PO/PM, we are working with is happy, but the higher up management is not.;;
-119;Autonomy;Who has autonomy to change the scope, budget or schedule?;g;3;;;
-118;Product Owner;Who is the PO?;a;3;;;
-117;Overrun Pain;We spend 250 extra hours on the project. Who pays?;g;1;;;
-116;Special NDA;Are there any special NDA concerns?;g;2;Like for example is there a 100.000� damages clause?;;
-115;LCM plans;Will there be an LCM continuation?;g;1;;;
-114;Warranty: time;How long do the warranty obligations last?;g;1;;;
-113;Contract clauses;Are there any conditional clauses?;g;2;Like we get 20% more if the user base growth with 10000 daily users.;;
-112;Sales rate;What is the sales rate?;g;2;;;
-111;Budget;What is the budget in person-days?;g;1;;;
-110;Proposal location;Where is the proposal?;g;2;;;
-109;Contract location;Where is the contract?;g;2;;;
-108;Contract type;What is the contract type?;a;2;Time and material, Fixed price/scope/schedule, Target price;;
-107;Deliverables;What are the deliverables?;a;2;;;
-106;End;When does the project end?;g;2;When: think about schedule, contract, release activity etc.;;
-105;Warranty;What is our warranty obligation?;g;1;;;
-104;Warranty: terms;Who determines which bugs are warranty bugs?;g;3;;;
-509;People dependancy;The unexpected leaving of which person in this project would cause the most damage to the project?;;3;;;
-510;People dependancy;Once the service is running, the leaving of which person causes the most harm?;;3;;;
-511;Documentation;what information will be lost if the entire team leaves suddenly to start a hot startup in the bahamas?;;2;;;
-512;Single access;Is there a system to which only one person has access?;;3;;;
-513;Paid service;Are there any subscription services tied to a personal credit card?;;3;;;
-514;Business continuity;Are there any business continuity plans related to the service we're building?;;2;;;
-515;3rd Party services;on which 3rd party does the service rely for operation and what happens if they are down?;;1;;;
-516;Personal data;do we deal in any way with personal data?;a;2;;;
-517;Data Access;Which companies have access to the service data?;;2;;;
-518;Business Critical;Is this service business critical and is there a plan if it fails?;;1;;;
-519;News;If this service goes banana shaped will it get in the news?;;1;;;
-520;Data;Is data leaving the client domain (3rd party)?;;2;;;
-521;System hack;If the system gets hacked in how big trouble are we and is our client?;;1;;;
-522;Data integrity;What happens if the data integrity is compromised?;;2;If the data becomes unreliable do we send patients to the wrong operation or is some item temporarily not available on the store. ;;
-523;Data availability;What happens if the data availability is interrupted?;;1;Datasource down does that also mean business down?;;
-524;Data confidentiality;What happens if the data confidentiality is compromised?;;1;;;
-525;Data classification;Is data with different classification treated differently?;;2;thing about a persons social security number vs name of a product in the shop;;
-526;Data integrity;How do we know if the data integrety is comprimised?;;2;;;
-527;Plain text passwords;Do we log any passwords in pain text?;;2;;;
-528;Keys in Github;Do we have any sensitive info in gihub?;;2;Api keys, passwords, etc;;
-529;Design awards;Has the client won any design awards?;;1;What can we learn from this?;;
-530;Design team;Do we know other designers working in the client organisation?;;1;;;
-531;Design team;Do we have access to other designers working in the client organisation?;;1;;;
-532;Consistency;Have we analysed UX of client's existing services?;;1;;;
-533;Vision;Is our design aligned with the client's vision?;;1;;;
-534;Brand experience;Is our design aligned with the client's design principles and guidelines?;;1;;;
-535;Stakeholders;Are we aware of the relevant stakeholders?;;2;;;
-536;Brand experience;Is there Tone of Voice guidelines available?;;2;Is our design aligned with the guidelines?;;
-537;Consistency;Is there Client Experience Vision and Principles available?;;2;;;
-538;Client experience;What is the quality of Client Experience Vision and Principles?;;1;;;
-539;Branding;Do we have a contact in Branding to ask questions / feedback?;;3;;;
-540;Branding;Is there Brand guidelines available?;;2;;;
-541;Branding;What is the quality of Brand guidelines?;;1;;;
-542;Design;Are we aware of client's other current design project?;;1;;;
-543;Impact;How crucial is our solution for intended audience - does it touch major life events?;;1;Does it impact for example decisions about getting a job or keeping it, healthcare, benefits?;Ethics;
-544;Up to date data;Is the data we use current?;;2;;Data;
-545;Audits;What kind of audits will be done or should be possible to run for the system we build?;;2;;Data;Auditability
-546;Explain results;Will we be able to explain to the user why our system gives its results?;;1;;Data;Explainabiloity
-547;Unintended consequences;What  are the possible unintended concequences of the system we are creating?;;1;;Ethics;
-548;typos;Does the data that is available come from a system prone to human error?;;2;;Data;
-549;data bias;Does the data we have contain bias, that potentially impacts our outcomes?;;1;;Data;Fairness/Ethics
-550;personal data;Are we dealing with somebody's personal information?;;2;;Data;Privacy
-551;impact;Are we building something that impacts a large group of people?;;2;;;Audience
-552;target audience;Does our target audience consist of diverse group of people?;;1;;;Audience
-553;Client side team;What are the tasks and responsibilities for client-side project team members?;;3;for exampkle in-house service designer vs. our designers;Design;Roles/Responsibilities
-554;Service identity;Are we creating service identity or using existing identity/brand?;;1;;Design;
-555;Buying design;Does the client have experience on buying design? ;;1;;Design;
-556;buying end to end;Does the client have experience on buying end-to-end cross-dicipline team?;;1;;;
-557;Design dependancies;What are the design dependencies regarding other systems?;;2;;Design;
-558;Client insights;What are the existing client insights that can be utilized?;;2;;Design;Users
-559;Client insights;Do we need additional client insight to create the service?;;2;;Design;Users
-560;User;Who are we desiging the service for?;;1;;design;users
+"id","title","description","deck","round","help_text","",""
+"508","Incentives.","How are interviewees incentivised?","g","2","","",""
+"507","NDA interviewee","Does the interviewee need to sign an NDA?","g","2","","",""
+"506","Interview location","Where do the user interviews take place?","g","2","","",""
+"505","End user recruitment.","Who does the end user recruitment for user interviews?","g","3","","",""
+"504","Contact point client?","Who in the team is the contact point for the client?","g","3","","",""
+"503","Visuals in SVS?","Are visuals part of the SVS deliverables?","g","1","","",""
+"502","Prototypes in SVS?","Are prototypes part of the SVS deliverables?","g","1","","",""
+"501","Right people.","Can we have the right people to cover all aspects in the SVS: desirability, feasibility, viability?","g","3","","",""
+"500","Client in SVS.","Who of the client is part of the SVS and how much?","g","3","","",""
+"499","Client in SVS","Is the client part of the SVS?","g","3","","",""
+"498","Contact end users.","How can we contact the end users?","g","2","","",""
+"497","Unfettered access.","Can we contact the end users directly or does the client act as proxy?","g","2","","",""
+"496","Access to end users.","Do we have direct access to end users?","g","3","Essential for SVS/concepting, important for other project types.","",""
+"495","PM triangle","What are the constraints?","a","1","Schedule, Scope, Budget.","",""
+"484","Outside scope","What is the biggest thing which is outside the scope of this project","a","1","","",""
+"483","Service in 1 year","What will the service be in 1 year, 2 years from now","g","1","","",""
+"482","All parts","Are all parts, required to make the service work, budgeted for?","a","2","All mobile platforms, back-end services, Gateways, CI systems, .....","",""
+"481","Availability","What is the availability of the team members?","a","3","","",""
+"480","Waste","What has been the most wasteful activity so far?","r","3","","",""
+"479","Learning","If you had one week for somebody in the team to learn something. Who and what would that be?","r","3","","",""
+"478","Best thing","What has been the best decision we have made since the start of the project?","r","3","","",""
+"477","Twice as happy","If we could have done things differently, what would have made the client twice as happy?","r","1","","",""
+"476","Recommend","What practise from this project would you recommend every single other project to adopt?","r","3","","",""
+"475","Concept history","Do we know how we ended up with the current concept?","g","1","","",""
+"474","Design approval","Are there any other parties in the client organisation who have to approve the designs?","g","2","","",""
+"473","Business case","Have we challenged the business case?","g","1","","",""
+"472","Concept","Have we challenged the concept?","g","1","","",""
+"471","Challenge brand","Have we challenged the brand guidelines","g","1","","",""
+"470","Partial concept","Does the client know which part of the concept will be implemented first?","g","2","","",""
+"469","Design review","Have the designs been reviewed by the developers/PO?","g","2","","",""
+"468","Design files","Is the master documents (sketch, photoshop, illustrator, and others) on Drive?","g","2","","",""
+"467","Share assets","How do we store/share/version control assets?","g","2","","",""
+"466","Assets to developers","Do the developers have all assets?","g","2","","",""
+"465","Possible","Are all designs possible (or easy enough) to implement?","g","1","","",""
+"464","Design review","Have the designs been peer reviewed by other Futu designers","g","3","","",""
+"463","Design approval","Have all the stakeholders approved the designs?","g","1","","",""
+"462","Design awareness","Have all the stakeholders seen the designs?","g","2","","",""
+"461","Brand","Is our design aligned with the brand","g","1","","",""
+"459","PO incentives","What are the incentives for the PO?","g","3","Think also about bonus schemes, personal ambition etc.","",""
+"458","Release","Is there anything unknown about the release process?","g","2","Test release build process, walk through acceptance and deployment/store release steps. ","",""
+"457","Postpone","Is there anything in the backlog which could be postponed to the next release?","a","1","","",""
+"456","Weekend work","What is the agreement about weekend work?","g","2","Who decides, how to avoid undue peer pressure, any extra compensation?","",""
+"451","Confidentiality","What can I tell inside Futurice?","g","2","","",""
+"450","Sensitive data","Does the project include any sensitive personal data?","g","2","","",""
+"449","Open source clause","Does the contract include our open source clause?","g","2","","",""
+"448","Open source licences","What are allowed/forbidden open source licenses?","g","2","","",""
+"447","Libraries","Is there any limitations when in comes to choosing libraries, frameworks etc.?","g","2","Some organisation have limitations in the form of a blacklist (or white-list) for 3rd party libraries.","",""
+"446","IPR ownership","Who own the Intellectual property rights?","g","2","","",""
+"445","Working location","Does the contract stipulate where the work should be carried out?","g","2","","",""
+"444","Obligations","What, if any, are the contractual obligation the client has to fulfil to enable project success?","g","1","Think about required upstream changes, delivered information, PO availability","",""
+"443","Communication","What is the most important thing to improve related to inside team communication?","r","3","","",""
+"442","On-boarding","What information was missing from the on-boarding?","r","3","If there are people who joined after the project started.","",""
+"441","Constraints","What is the most significant change in the constraints since the beginning? ","r","1","Budget, scope, schedule","",""
+"440","Backlog","How happy are we with the backlog? How can we make it better?","r","2","","",""
+"439","Value driven","Are we working on the most valuable item?","r","1","","",""
+"438","Feedback","What is the most relevant feedback we have received from the end-user so far?","r","1","","",""
+"437","Cancelled","If the client would decide to cancel the project what would be the reason?","g","1","","",""
+"436","Disappointment","In which way have we disappointed the client the most?","r","1","","",""
+"435","Team forming","How well is the team working as a team and how could it be better?","r","3","","",""
+"434","Haven't told","What is the biggest thing we haven't told the client.","r","1","","",""
+"432","Time left","Based on the current burn-rate how long will the budget still last","r","2","","",""
+"431","Value creation","What is the most valuable thing we have done for the client so far?","r","1","","",""
+"430","Client","What is the most surprising thing you learned about the client?","r","1","","",""
+"429","Team change","What in the team set up would you most like to change?","r","3","","",""
+"428","Tech. change","What technological aspect would you most like to change?","r","2","","",""
+"427","Assumptions","Are there any assumptions you made in the beginning which did not hold and what is the impact?","r","3","","",""
+"426","Travel","If the project crosses borders, what is the plan with regards to travelling?","g","2","","",""
+"425","Other costs","Who pays for project expenses (think of travel, licence and other costs)","g","2","","",""
+"424","Multiple locations","If your team is not all sitting at the same location, how often do you co-locate or rotate team members?","g","3","","",""
+"423","New information","If we knew at the start what we know now, what would we have done different?","r","3","","",""
+"422","Technical debt","Is the amount of technical debt we have created acceptable?","r","2","","",""
+"421","Things to change","What 3 things would you like to change?","r","3","","",""
+"420","Team motivation","What direction is the team’s motivation going?","r","3","","",""
+"419","Happy client","Is the client happier than at the start of the project?","r","3","","",""
+"418","Surprises","What has been the biggest surprise in the project so far?","r","3","","",""
+"417","Team changes","What is the difference between the on-boarding of original team members vs those who joined later?","r","3","","",""
+"416","Business case","Compared to the beginning, what has changed in the client's business case?","r","1","","",""
+"415","Continue","Why should we continue with the project","r","1","","",""
+"414","Budget","Are we currently ahead or behind our expectations from the beginning of the project.","r","1","Think about budget, scope and schedule.","",""
+"413","What changed?","Compared to the beginning, what is the most important thing that has changed?","r","3","","",""
+"230","Getting in the flow","How do you help others get into the flow?","g","3","You can make agreements about disturbing, working hours when to plan meetings etc.","",""
+"229","Burn-rate","When the team is fully running how much budget is used per week?","g","1","Fully running means the team after ramp-up so based on the normal allocation of the team.","",""
+"228","Credentials","Do all the team members have all the relevant credentials","g","2","","",""
+"227","Scrum budget","How much budget/time is reserved for retrospectives/ scrum activities?","g","1","","",""
+"226","UAT support","How much budget/time is reserved for supporting user acceptance testing?","g","1","","",""
+"225","Deployment","How much budget/time is reserved for deployment to production?","g","1","","",""
+"224","Cancel","What are the most likely scenarios in which the client would cancel the entire project?","g","1","","",""
+"223","Extra work","How do we avoid doing extra work (not part of what is agreed) for free?","g","3","","",""
+"222","PM budget","How much budget is reserved for PM services?","g","3","PM services are things like invoicing, reporting, meetings, finding new team members, ....","",""
+"221","PM services","What PM services are required to be done by the team? And is this budgeted?","g","3","Think about invoicing, reporting, meetings, finding new team members, ....","",""
+"220","QA roles","Are there dedicated QA specialists available and what is their role? ","g","2","","",""
+"219","Our motivation","Why don't we just walk away from the project?","g","3","","",""
+"216","QA Budget","How much budget is reserved for QA?","g","1","","",""
+"206","Easier","Given the business objectives and constraints, can the project be done easier?","g","1","If there is something, there could be a lack of understanding.","",""
+"205","Reporting","What is expected in terms of progress reporting?","g","1","","",""
+"204","Product backlog","Who does the invoicing?","g","3","","",""
+"203","Sprint backlog","Where is the sprint backlog?","g","2","","",""
+"202","Hour marking","How should the hours be marked?","g","2","","",""
+"201","Remote work","Can we work remotely on Friday?","g","2","","",""
+"200","Previous projects","What case in Futuhistory most resembles this case and what where the biggest problems?","g","1","","",""
+"199","Tech. know-how","How well does the client understand tech.?","g","1","","",""
+"198","Distance to PO","How far are we sitting from the PO?","g","3","","",""
+"197","Tools","Is there a limitation on which tools we can use for backlog management?","g","2","","",""
+"196","Tools","Is there a limitation on which tools we can use for issue tracking?","g","2","","",""
+"195","New team member","Scenario: A new team member joins. How long does it take that person to be up to speed?","g","3","","",""
+"194","Environment","How much control do we have on the working environment?","g","2","","",""
+"193","Demos","Who is present during the demos?","g","3","","",""
+"192","Demo frequency","How often do we have a demo?","g","2","","",""
+"191","Metrics","Which metrics do we use to track the projects?","g","3","","",""
+"190","Optimism","When estimating how can we temper our own optimism?","g","3","","",""
+"189","DoD","What is the definition of done?","g","2","","",""
+"188","Sprint length","How long are the sprints?","g","2","","",""
+"187","Retrospectives","How often do we schedule retrospectives and who arranges them?","g","3","","",""
+"186","Product backlog","Who can add/remove items from the product backlog?","g","3","","",""
+"185","Product backlog","Where is the product backlog?","a","2","","",""
+"184","Legacy code","What is the quality of the current code base?","g","2","","",""
+"183","Repository","Where is the code?","g","2","","",""
+"182","Dependencies","Can we influence the features of dependent services?","g","2","Can we modify/ add an api we are using?","",""
+"181","3rd Party libraries","Are we free to choose frameworks, libraries etc.?","g","2","","",""
+"180","End2End","What is needed to get a working E2E environment?","g","2","","",""
+"179","Documentation","What documentation is required?","g","2","","",""
+"178","Dependencies","What are the external dependencies?","a","2","","",""
+"177","First release","What is needs to be set up before we can deliver the first working software?","g","2","","",""
+"176","Client brand","Do we have brand guidelines?","g","2","","",""
+"175","Release","Who releases the application to the store?","g","3","","",""
+"174","Deployment","Are we able to deploy on production?","g","2","","",""
+"173","Account manager","Who is the account manager?","g","3","","",""
+"172","Support team","Who is supporting the team?","g","3","","",""
+"171","Core team","Who is part of the core team?","g","3","","",""
+"170","Other commitments","What other commitments does the team have?","a","3","","",""
+"169","Industry","What do we know of the industry?","g","1","","",""
+"168","Team size","Are there any planned changes in the team size?","g","3","","",""
+"167","Plans","Does anybody in the team have holidays/absences planned?","g","3","","",""
+"166","Experience","How well do we know the technology used?","a","3","","",""
+"165","Experience","How much experience do we have with this type of project?","g","3","This is related to the project set-up not the technology or other competences used","",""
+"164","No sayer","If the client pushes for more features on top of the agreed scope, who will say no to them?","g","3","Saying no is not easy, think if you are comfortable saying no.","",""
+"163","Biggest concern","What is the biggest concern of the PO?","a","3","","",""
+"162","PM Triangle","What is most important schedule, scope or budget?","g","1","If there is a problem. Is the client more likely to add people, remove feature or extend deadline?","",""
+"161","Platform support","A new client OS is released during the project: are updates due to this in or outside the scope?","g","1","","",""
+"160","Known Unknowns","What is the biggest unknown in the project?","a","3","","",""
+"159","MoSCoW","Which fraction of the backlog is must vs. should or could?","g","1","","",""
+"158","Deadline","Is there any hard deadline?","g","2","Think about media campaigns, special events, seasonal buying related to the service?","",""
+"157","Lifetime service","How long is the service expected to be used?","g","1","","",""
+"156","Platform support","Which OS/platform/� versions do we support?","g","2","","",""
+"155","Delay impact","What happens to the client's business case if the release is a month later?","g","1","","",""
+"154","Release planning","How far from the launch day are we when we have burned half of the total budget?","g","1","","",""
+"153","Project end","When is the project finished?","a","1","","",""
+"152","Scope change","How do we know if something is outside the scope?","g","1","","",""
+"151","Scope change","Who negotiates scope changes?","g","3","","",""
+"150","Underestimate","If an item is larger than was estimated during sprint planning, what is most likely to happen?","g","2","","",""
+"149","Revenue","How much does the client expect to spend on Futurice before the end of the project?","g","1","","",""
+"148","Budget check","How often do we check how we are doing on budget?","g","3","","",""
+"147","Timeline","How much budget do we expect to be used before we deliver the first working version?","g","1","","",""
+"146","Timeline","How much time is there reserved for bug fixing?","g","2","","",""
+"145","Timeline","When does the client expect the project to be released?","g","1","","",""
+"144","Responsibility","Whose ass on the client's is on the line if the project fails utterly?","g","3","","",""
+"143","Problem","What problem does this service try to solve?","a","1","","",""
+"142","Project aim","What is the aim of the client with this project?","a","1","Generally something like reduce costs, get more users, retain users, change business model...","",""
+"141","Why","What is the reason the client wants us to do the project?","a","1","","",""
+"140","Vision","What is the long-term vision of the service?","a","1","","",""
+"139","Release frequency","How frequent are production releases?","g","2","","",""
+"138","Product Owner","How long has the PO been working for the client organization?","g","3","","",""
+"137","SW buyer","Has the client a long track record of buying software?","a","1","","",""
+"136","Dependencies","Can we easily communicate with technical people of services we depend on?","g","2","","",""
+"135","PO time","How much time does the PO have available for the project?","g","3","","",""
+"134","Assets","How do we get client assets?","g","2","Think about texts, logo's brand material etc.","",""
+"133","Previous projects","What other projects have we done for the client and what were the biggest problems?","g","1","","",""
+"132","Approval","Who approves the final products?","a","3","","",""
+"131","Key players","Who are the key players in the client organization?","a","3","","",""
+"130","Agile","How agile is the client?","g","3","","",""
+"129","Digital maturity","What do we know of the client digital maturity?","a","1","","",""
+"128","Public reference","Is the case a public reference case?","a","2","","",""
+"127","Feedback","How do we get client satisfaction feedback?","g","2","","",""
+"126","End users","Who are the end users?","g","1","","",""
+"125","Happy client","What is an outcome that would make the client jump with joy?","a","3","","",""
+"124","ROI","How does the client get the invested money back?","a","1","","",""
+"123","Stakeholders","Do we have access to stakeholders?","g","3","","",""
+"122","End users","Do we have access to end users?","g","2","","",""
+"121","Current service","What is the current service/application?","g","2","","",""
+"120","Verify feedback","How can we verify client satisfaction from higher up in the organization?","g","1","It can happen that the PO/PM, we are working with is happy, but the higher up management is not.","",""
+"119","Autonomy","Who has autonomy to change the scope, budget or schedule?","g","3","","",""
+"118","Product Owner","Who is the PO?","a","3","","",""
+"117","Overrun Pain","We spend 250 extra hours on the project. Who pays?","g","1","","",""
+"116","Special NDA","Are there any special NDA concerns?","g","2","Like for example is there a 100.000� damages clause?","",""
+"115","LCM plans","Will there be an LCM continuation?","g","1","","",""
+"114","Warranty: time","How long do the warranty obligations last?","g","1","","",""
+"113","Contract clauses","Are there any conditional clauses?","g","2","Like we get 20% more if the user base growth with 10000 daily users.","",""
+"112","Sales rate","What is the sales rate?","g","2","","",""
+"111","Budget","What is the budget in person-days?","g","1","","",""
+"110","Proposal location","Where is the proposal?","g","2","","",""
+"109","Contract location","Where is the contract?","g","2","","",""
+"108","Contract type","What is the contract type?","a","2","Time and material, Fixed price/scope/schedule, Target price","",""
+"107","Deliverables","What are the deliverables?","a","2","","",""
+"106","End","When does the project end?","g","2","When: think about schedule, contract, release activity etc.","",""
+"105","Warranty","What is our warranty obligation?","g","1","","",""
+"104","Warranty: terms","Who determines which bugs are warranty bugs?","g","3","","",""
+"509","People dependancy","The unexpected leaving of which person in this project would cause the most damage to the project?","","3","","",""
+"510","People dependancy","Once the service is running, the leaving of which person causes the most harm?","","3","","",""
+"511","Documentation","what information will be lost if the entire team leaves suddenly to start a hot startup in the bahamas?","","2","","",""
+"512","Single access","Is there a system to which only one person has access?","","3","","",""
+"513","Paid service","Are there any subscription services tied to a personal credit card?","","3","","",""
+"514","Business continuity","Are there any business continuity plans related to the service we're building?","","2","","",""
+"515","3rd Party services","on which 3rd party does the service rely for operation and what happens if they are down?","","1","","",""
+"516","Personal data","do we deal in any way with personal data?","a","2","","",""
+"517","Data Access","Which companies have access to the service data?","","2","","",""
+"518","Business Critical","Is this service business critical and is there a plan if it fails?","","1","","",""
+"519","News","If this service goes banana shaped will it get in the news?","","1","","",""
+"520","Data","Is data leaving the client domain (3rd party)?","","2","","",""
+"521","System hack","If the system gets hacked in how big trouble are we and is our client?","","1","","",""
+"522","Data integrity","What happens if the data integrity is compromised?","","2","If the data becomes unreliable do we send patients to the wrong operation or is some item temporarily not available on the store. ","",""
+"523","Data availability","What happens if the data availability is interrupted?","","1","Datasource down does that also mean business down?","",""
+"524","Data confidentiality","What happens if the data confidentiality is compromised?","","1","","",""
+"525","Data classification","Is data with different classification treated differently?","","2","thing about a persons social security number vs name of a product in the shop","",""
+"526","Data integrity","How do we know if the data integrety is comprimised?","","2","","",""
+"527","Plain text passwords","Do we log any passwords in pain text?","","2","","",""
+"528","Keys in Github","Do we have any sensitive info in gihub?","","2","Api keys, passwords, etc","",""
+"529","Design awards","Has the client won any design awards?","","1","What can we learn from this?","",""
+"530","Design team","Do we know other designers working in the client organisation?","","1","","",""
+"531","Design team","Do we have access to other designers working in the client organisation?","","1","","",""
+"532","Consistency","Have we analysed UX of client's existing services?","","1","","",""
+"533","Vision","Is our design aligned with the client's vision?","","1","","",""
+"534","Brand experience","Is our design aligned with the client's design principles and guidelines?","","1","","",""
+"535","Stakeholders","Are we aware of the relevant stakeholders?","","2","","",""
+"536","Brand experience","Is there Tone of Voice guidelines available?","","2","Is our design aligned with the guidelines?","",""
+"537","Consistency","Is there Client Experience Vision and Principles available?","","2","","",""
+"538","Client experience","What is the quality of Client Experience Vision and Principles?","","1","","",""
+"539","Branding","Do we have a contact in Branding to ask questions / feedback?","","3","","",""
+"540","Branding","Is there Brand guidelines available?","","2","","",""
+"541","Branding","What is the quality of Brand guidelines?","","1","","",""
+"542","Design","Are we aware of client's other current design project?","","1","","",""
+"543","Impact","How crucial is our solution for intended audience - does it touch major life events?","","1","Does it impact for example decisions about getting a job or keeping it, healthcare, benefits?","Ethics",""
+"544","Up to date data","Is the data we use current?","","2","","Data",""
+"545","Audits","What kind of audits will be done or should be possible to run for the system we build?","","2","","Data","Auditability"
+"546","Explain results","Will we be able to explain to the user why our system gives its results?","","1","","Data","Explainabiloity"
+"547","Unintended consequences","What  are the possible unintended concequences of the system we are creating?","","1","","Ethics",""
+"548","typos","Does the data that is available come from a system prone to human error?","","2","","Data",""
+"549","data bias","Does the data we have contain bias, that potentially impacts our outcomes?","","1","","Data","Fairness/Ethics"
+"550","personal data","Are we dealing with somebody's personal information?","","2","","Data","Privacy"
+"551","impact","Are we building something that impacts a large group of people?","","2","","","Audience"
+"552","target audience","Does our target audience consist of diverse group of people?","","1","","","Audience"
+"553","Client side team","What are the tasks and responsibilities for client-side project team members?","","3","for exampkle in-house service designer vs. our designers","Design","Roles/Responsibilities"
+"554","Service identity","Are we creating service identity or using existing identity/brand?","","1","","Design",""
+"555","Buying design","Does the client have experience on buying design? ","","1","","Design",""
+"556","buying end to end","Does the client have experience on buying end-to-end cross-dicipline team?","","1","","",""
+"557","Design dependancies","What are the design dependencies regarding other systems?","","2","","Design",""
+"558","Client insights","What are the existing client insights that can be utilized?","","2","","Design","Users"
+"559","Client insights","Do we need additional client insight to create the service?","","2","","Design","Users"
+"560","User","Who are we desiging the service for?","","1","","design","users"
