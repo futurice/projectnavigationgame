@@ -40,7 +40,7 @@ id,title,description,deck,help_text
 458,Release,Is there anything unknown about the release process?,g,"Test release build process, walk through acceptance and deployment/store release steps. "
 457,Postpone,Is there anything in the backlog which could be postponed to the next release?,a,
 456,Weekend work,What is the agreement about weekend work?,g,"Who decides, how to avoid undue peer pressure, any extra compensation?"
-451,Confidentiality,What can I tell inside Futurice?,g,
+451,Confidentiality,What can I say about the project inside Futurice?,g,
 450,Sensitive data,Does the project include any sensitive personal data?,g,
 449,Open source clause,Does the contract include our open source clause?,g,
 448,Open source licences,What are allowed/forbidden open source licenses?,g,
@@ -73,11 +73,11 @@ id,title,description,deck,help_text
 420,Team motivation,What direction is the team motivation going?,r,
 419,Happy customer,Is the customer happier than at the start of the project?,r,
 418,Surprises,What has been the biggest surprise in the project so far?,r,
-417,Team changes,What is the difference between the on-boarding of original team members vs those who joined later?,r,
-416,Business case,"Compared to the beginning, what has changed in the customer's business case?",r,
+417,Team changes,How will we onboard the first team members? What about those that join later?,r,
+416,Business case,What has changed in the customer's business case since we began?,r,
 415,Continue,Why should we continue with the project,r,
 414,Budget,Are we currently ahead or behind our expectations from the beginning of the project.,r,"Think about budget, scope and schedule."
-413,What changed?,"Compared to the beginning, what is the most important thing that has changed?",r,
+413,What changed?,What is the most important thing that has changed since we began the project?,r,
 230,Getting in the flow,How do you help others get into the flow?,g,"You can make agreements about disturbing, working hours when to plan meetings etc."
 229,Burn-rate,When the team is fully running how much budget is used per week?,g,Fully running means the team after ramp-up so based on the normal allocation of the team.
 228,Credentials,Do all the team members have all the relevant credentials,g,
@@ -86,29 +86,29 @@ id,title,description,deck,help_text
 225,Deployment,How much budget/time is reserved for deployment to production?,g,
 224,Cancel,What are the most likely scenarios in which the customer would cancel the entire project?,g,
 223,Extra work,How do we avoid doing extra work (not part of what is agreed) for free?,g,
-222,PM budget,How much budget is reserved for PM services?,g,"PM services are things like invoicing, reporting, meetings, finding new team members, ...."
-221,PM services,What PM services are required to be done by the team? And is this budgeted?,g,"Think about invoicing, reporting, meetings, finding new team members, ...."
+222,PM budget,How much budget is reserved for Project Manager services?,g,"PM services are things like invoicing, reporting, meetings, finding new team members, ...."
+221,PM services,What Project Manager services are required to be done by the team? How much is budgeted?,g,"Think about invoicing, reporting, meetings, finding new team members, ...."
 220,QA roles,Are there dedicated QA specialists available and what is their role? ,g,
-219,Our motivation,Why don't we just walk away from the project?,g,
+219,Our motivation,What would make us walk away from the project?,g,
 216,QA Budget,How much budget is reserved for QA?,g,
-206,Easier,"Given the business objectives and constraints, can the project be done easier?",g,"If there is something, there could be a lack of understanding."
+206,Easier,"Given the business objectives and constraints, can we do this more easily?",g,"If there is something, could this be down to a lack of understanding?"
 205,Reporting,What is expected in terms of progress reporting?,g,
 204,Product backlog,Who does the invoicing?,g,
 203,Sprint backlog,Where is the sprint backlog?,g,
 202,Hour marking,How should the hours be marked?,g,
 201,Remote work,Can we work remotely on Friday?,g,
 200,Previous projects,What case in Futuhistory most resembles this case and what where the biggest problems?,g,
-199,Tech. know-how,How well does the customer understand tech.?,g,
-198,Distance to PO,How far are we sitting from the PO?,g,
+199,Tech. know-how,How well does the customer understand technology?,g,
+198,Distance to PO,How far are we sitting from the Product Owner?,g,
 197,Tools,Is there a limitation on which tools we can use for backlog management?,g,
 196,Tools,Is there a limitation on which tools we can use for issue tracking?,g,
-195,New team member,Scenario: A new team member joins. How long does it take that person to be up to speed?,g,
+195,New team member,A new team member joins. How long does it take that person to be brought up to speed?,g,
 194,Environment,How much control do we have on the working environment?,g,
 193,Demos,Who is present during the demos?,g,
 192,Demo frequency,How often do we have a demo?,g,
 191,Metrics,Which metrics do we use to track the projects?,g,
-190,Optimism,When estimating how can we temper our own optimism?,g,
-189,DoD,What is the definition of done?,g,
+190,Optimism,"When estimating, how can we temper our own optimism?",g,
+189,DoD,What is the definition of “done”?,g,
 188,Sprint length,How long are the sprints?,g,
 187,Retrospectives,How often do we schedule retrospectives and who arranges them?,g,
 186,Product backlog,Who can add/remove items from the product backlog?,g,
@@ -120,7 +120,7 @@ id,title,description,deck,help_text
 180,End2End,What is needed to get a working E2E environment?,g,
 179,Documentation,What documentation is required?,g,
 178,Dependencies,What are the external dependencies?,a,
-177,First release,What is needs to be set up before we can deliver the first working software?,g,
+177,First release,What is needs to be set up before we can deliver the first working product?,g,
 176,Customer brand,Do we have brand guidelines?,g,
 175,Release,Who releases the application to the store?,g,
 174,Deployment,Are we able to deploy on production?,g,
@@ -131,15 +131,15 @@ id,title,description,deck,help_text
 169,Industry,What do we know of the industry?,g,
 168,Team size,Are there any planned changes in the team size?,g,
 167,Plans,Does anybody in the team have holidays/absences planned?,g,
-166,Experience,How well do we know the technology used?,a,
+166,Experience,How well do we know the technology being used?,a,
 165,Experience,How much experience do we have with this type of project?,g,This is related to the project set-up not the technology or other competences used
 164,No sayer,"If the customer pushes for more features on top of the agreed scope, who will say no to them?",g,"Saying no is not easy, think if you are comfortable saying no."
-163,Biggest concern,What is the biggest concern of the PO?,a,
-162,PM Triangle,"What is most important schedule, scope or budget?",g,"If there is a problem. Is the customer more likely to add people, remove feature or extend deadline?"
+163,Biggest concern,What is the biggest concern of the Product Owner?,a,
+162,PM Triangle,"What is most important - schedule, scope or budget?",g,"If there is a problem. Is the customer more likely to add people, remove feature or extend deadline?"
 161,Platform support,A new client OS is released during the project: are updates due to this in or outside the scope?,g,
 160,Known Unknowns,What is the biggest unknown in the project?,a,
 159,MoSCoW,Which fraction of the backlog is must vs. should or could?,g,
-158,Deadline,Is there any hard deadline?,g,"Think about media campaigns, special events, seasonal buying related to the service?"
+158,Deadline,Are there any hard deadlines?,g,"Think about media campaigns, special events, seasonal buying related to the service?"
 157,Lifetime service,How long is the service expected to be used?,g,
 156,Platform support,Which OS/platform/� versions do we support?,g,
 155,Delay impact,What happens to the customer's business case if the release is a month later?,g,
