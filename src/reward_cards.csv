@@ -1,6 +1,6 @@
 id,title,description
 ,Karaoke night,Embarrass yourselves at a karaoke night
-,Oldest pub,Take the team to the oldest still operating pub in town and sample some of their menu.
+,Oldest pub,Take the team to the oldest (operating) pub in town and sample some of their menu.
 ,Museum visit,Go to a museum! The museum should be somehow linked to the client’s line of business
 ,New lunch,Lunch with the entire team. Pick a restaurant nobody in the team has been to before.
 ,Customer visit,"Visit to the customer's core business work floor. This can be the factory, studio, shop, ..."
@@ -9,8 +9,8 @@ id,title,description
 ,Vegan lunch,Lunch with the entire team in the best vegan restaurant in town.
 ,Wine tasting,Wine tasting with the entire team.
 ,Escape room,Escape room with the entire team.
-,Pubquiz,Pubquiz with the entire team
-,Coocking,Cook a delicious meal together
+,Pub quiz,Pub quiz with the entire team
+,Cooking,Cook a delicious meal together
 ,Picnic,Go out into the fields and spread a blanket and some delicious food.
 ,Hike,Go hiking with the team
 ,,
