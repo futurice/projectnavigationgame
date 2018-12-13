@@ -6,8 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
   <title>Project navigation game</title>
+  <img id= "logo" src="https://github.com/futurice/projectnavigationgame/blob/master/png-logo.png?raw=true" alt="PNG-logo">
   <style media="screen">
   
   body {
@@ -41,24 +43,15 @@
    
   }
   
- .logo {
-  z-index: 1;
-  width: 240px !important;
+  #logo {
+   z-index: 1;
+  width: 240;
   position: absolute;
   top:70px;
   left: 10%;
-}
     
-    .topbar {
-  
-  height: 300px;
-  width: 100%;
-  background-color: white;
-  position: relative;
-  top:-700 !important;
-  transform: skewY(-7deg);
- 
 }
+  
   
   .png-offer{
     text-align: left;
@@ -81,6 +74,19 @@
     content: '✓';
   }
   
+  
+    .topbar {
+  
+  height: 380px;
+  position: relative;
+  top: -150px;
+  width: 100%;
+  background-color: white;
+  position: relative;
+  transform: skewY(-7deg);
+ 
+ 
+}
 
 .btn {
 font-family: Futurice-Monospaced;
@@ -109,6 +115,11 @@ color: white;
 
 }
 
+.btn a hover {
+  
+ background-color:red; 
+}
+
 .m-1 {
     margin: .80rem!important;
 
@@ -132,7 +143,7 @@ display;flex;
   </style>
 </head>
 <body>
-<img id="logo" src="https://github.com/futurice/projectnavigationgame/blob/master/png-logo.png?raw=true" alt="PNG-logo">
+
 <div class=" topbar2"></div>
  <div class="topbar">
  </div>
