@@ -1,6 +1,5 @@
 # Project Navigation game
 
+## [documentation >](https://projectnavigationgame.futurice.com)
 
-*TBD*
-
-## [documentation >](docs/index.html)
+copyright (c) 2019 Futurice
