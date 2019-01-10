@@ -74,7 +74,7 @@
 
   <div id="footer">
 
- <div id="sales"> <a href="sales.html">Buy your own copy</a>
+  <a href="sales.html"><div id="sales"><p>Buy your own copy</p></a>
 
 </div>
 <div id="internal"> <a href="https://confluence.futurice.com/pages/viewpage.action?pageId=58392836">Futurice internal</a></div>
@@ -104,6 +104,7 @@ Ella Eiranto <br></p>
     font-family: Futurice-Bold;
     src: url("../projectnavigationgame/docs/Futurice-Bold.ttf") format('truetype');
 }
+
 @media only screen and (max-width: 1200px) {
 .skew-photo {
  top:270px !important;
@@ -126,6 +127,7 @@ Ella Eiranto <br></p>
   
   .white-skew {
  top:-80px !important;
+ margin-bottom: 10px;
   }
 }
    
@@ -140,7 +142,7 @@ Ella Eiranto <br></p>
  max-width: 90% !important;
   
   }
-  
+
     #sales {
     
   margin-bottom: 30px;
@@ -160,6 +162,7 @@ Ella Eiranto <br></p>
   }
   
 }
+
 @media only screen and (max-width: 768px) {
   
   #logo {
@@ -173,6 +176,7 @@ Ella Eiranto <br></p>
   
 .white-skew {
  top:-280px !important;
+ 
   }
   
 .content {
@@ -220,6 +224,7 @@ display: none;
   }
   
 }
+
 @media only screen and (max-width: 600px) {
   
   #logo {
@@ -253,12 +258,15 @@ display: none;
  font-family: Futurice-Monospaced;
  line-height:1.8;
 }
+
 .contact {
 display: none;
 }
+
 .team {
 display: none;
 }
+
 .slogan {
  display: none; 
 }
@@ -266,8 +274,8 @@ display: none;
 .logoslogan {
   margin-top: -50px !important;
   margin-bottom: 30 !important;
+ }
  
-}
   #footer {
   padding-left: 0% !important;
   width: 100% !important;
@@ -331,9 +339,11 @@ margin-top:-380;
 position: absolute;
 color: white;
 }
+
 li a {
 color:#fff;
 }
+
 .topbar {
   height: 400px;
   width: 100%;
@@ -360,6 +370,7 @@ width: 100%;
   top:-30;
   transform: skewY(-7deg);
 }
+
 .skew-photo {
   height: 750px;
   width: 100%;
@@ -368,14 +379,17 @@ width: 100%;
   background-size: 100%;
   background-repeat: no-repeat;
 }
+
 h2 {
  padding-top: 20px;
  font-family: Futurice-Bold;
 font-size: 24px;
 }
+
 span {
   background: #fd0;
 }
+
 li {
  padding-top:3px;
 }
@@ -390,9 +404,11 @@ li {
   margin-top: 110;
   color: black;
 }
+
 #footer p{
   font-size:14px;
 }
+
 #sales {
 background-color: transparent;
 color:rgb(81, 39, 198);
@@ -403,7 +419,6 @@ text-transform: uppercase;
 border-radius: 3px;
 border: 2px solid rgb(98, 61, 203);
 max-height: 64px;
-padding: 17px 30px 13px 27px;
 letter-spacing: 1px;
 text-align: center;
 display: inline-block;
@@ -414,10 +429,15 @@ vertical-align: top;
 text-decoration: none;
 margin-right: 20px;
 }
-#sales a {
-text-decoration: none;
-color: rgb(98, 61, 203) !important;
+
+#sales p {
+padding: 17px 30px 13px 27px;
+ margin-bottom: 0; 
+ color: rgb(98, 61, 203);
 }
+
+
+
 #internal {
 background-color: transparent;
 color:rgb(81, 39, 198);
@@ -436,25 +456,47 @@ white-space: nowrap;
 vertical-align: top;
 text-decoration: none;
 }
+
 #internal a {
   text-decoration: none;
   color: rgb(98, 61, 203) !important;
 }
+
+#internal a:hover{
+  text-decoration: underline;
+  color:white;
+  }
+  
+
+  
+  
+  #sales p:hover {
+    
+    background-color: rgb(81, 39, 198);
+     color: white;
+     text-decoration:none;
+     font-style: normal:
+   
+  }
+
 .contact {
  margin-top: 55px;
 }
+
 .contact  span {
  background-color:white;
  letter-spacing: 1px;
  font-family: Futurice-Monospaced;
  line-height:1.8;
 }
+
 .team  span {
 letter-spacing: 1px;
  background-color:white;
  font-family: Futurice-Monospaced;
   line-height:1.8;
 }
+
 .slogan {
     font-size: 22px;
     line-height: 1.44;
@@ -462,4 +504,5 @@ letter-spacing: 1px;
     background-color:white;
     font-family: Futurice-Monospaced;
 }
+
 </style>
