@@ -1,6 +1,6 @@
 ![alt text](png-logo.png "# Project Navigation game")
 
-Project Navigation Game is a game which helps to uncover problems in your project, which you didn’t know you had! Is covers all project areas: budget, scope, objectives, people, organisation, practical arrangement and more. The game also helps to build up the team.
+Project Navigation Game is a game which helps to uncover problems in your project, which you didn’t know you had! It covers all project areas: budget, scope, objectives, people, organisation, practical arrangement and more. The game also helps to build up the team.
 
 ## [More information](https://projectnavigationgame.futurice.com)
 
