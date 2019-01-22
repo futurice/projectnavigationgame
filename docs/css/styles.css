@@ -150,7 +150,8 @@ h3 {
 
 .page-content {
   max-width: 960px;
-  margin: 20px auto;
+  margin: 0 auto;
+  padding: 0 3rem;
 }
 
 .page-content h2 {
@@ -158,8 +159,12 @@ h3 {
   margin-bottom: 10px;
 }
 
+.page-content ul {
+  list-style-position: inside;
+}
+
 p.compact {
-  width: 50%;
+  width: 60%;
 }
 
 /** Homepage **/
@@ -250,4 +255,42 @@ footer {
   font-size: 22px;
   line-height: 1.44;
   white-space: nowrap;
+}
+
+/** Mobile Queries **/
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+  .diagonal-cut {
+    height: 500px;
+  }
+
+  p.compact {
+    width: 100%;
+  }
+
+  .hide-on-mobile {
+    display: none;
+  }
+
+  #select-box,
+  #redirect {
+    margin-top: 0;
+    padding-top: 3rem;
+  }
+}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+}
+
+/* Large and up */
+@media screen and (min-width: 64em) {
+}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
 }
