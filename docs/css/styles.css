@@ -45,6 +45,7 @@ h3 {
 }
 
 .primary-button,
+.secondary-button,
 .highlight-link {
   font-family: 'Futurice-Monospaced', sans-serif;
   text-transform: uppercase;
@@ -64,6 +65,17 @@ h3 {
 .primary-button:hover {
   background-color: #5127c6;
   color: #ffffff;
+}
+
+.secondary-button {
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  border-radius: 3px;
+}
+
+.secondary-button:hover {
+  background-color: #ffffff;
+  color: #5127c6;
 }
 
 .highlight-link:hover:after {
@@ -97,6 +109,11 @@ h3 {
   height: 500px;
 }
 
+.dark-background {
+  background-color: #5127c6;
+  height: 350px;
+}
+
 .diagonal-cut {
   height: 400px;
   width: 100%;
@@ -107,6 +124,10 @@ h3 {
   transform: skewY(-7deg);
   top: -200px;
   left: 0;
+}
+
+.white-diagonal {
+  background-color: #ffffff;
 }
 
 .header-logo {
@@ -141,6 +162,7 @@ p.compact {
   width: 50%;
 }
 
+/** Homepage **/
 .cover-image {
   background: url('../images/Players_Project_Navigation_Game.jpg') 100%;
   background-repeat: no-repeat;
@@ -162,6 +184,43 @@ p.compact {
 .team-section .contact-name {
   font-family: 'Futurice-Monospaced', sans-serif;
   text-transform: uppercase;
+}
+
+/** Sales **/
+#select-box {
+  margin-top: -50px;
+  background-color: #5127c6;
+  color: #ffffff;
+}
+
+.purchase-options ul {
+  list-style-position: outside;
+  list-style-image: url('../images/checkmark.svg');
+}
+
+.purchase-options ul li {
+  margin-bottom: 10px;
+  line-height: 1.2;
+}
+
+.purchase-option {
+  background-color: #401f9e;
+  border-radius: 5px;
+  width: 100%;
+  padding: 30px;
+  align-items: baseline;
+  margin-bottom: 20px;
+}
+
+.purchase-action {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.purchase-action a {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
 }
 
 /** Footer **/
