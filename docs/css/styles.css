@@ -1,0 +1,183 @@
+@import url('fonts/Futurice-Regular/Futurice-Regular.css');
+@import url('fonts/Futurice-Bold/Futurice-Bold.css');
+@import url('fonts/Futurice-Monospaced/Futurice-Monospaced.css');
+
+html,
+body {
+  font-family: 'Futurice-Regular', sans-serif;
+}
+
+/** General Styles **/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Futurice-Bold', sans-serif;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: 'Futurice-Monospaced', sans-serif;
+}
+
+.clearer {
+  display: block;
+  width: 100%;
+  clear: both;
+}
+
+.spacer {
+  height: 50px;
+  width: 100%;
+  display: block;
+  clear: both;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.primary-button,
+.highlight-link {
+  font-family: 'Futurice-Monospaced', sans-serif;
+  text-transform: uppercase;
+  padding: 20px;
+  letter-spacing: 1px;
+  font-size: 14px;
+  line-height: 1;
+  text-align: center;
+  font-weight: 700;
+}
+
+.primary-button {
+  border: 2px solid #5127c6;
+  border-radius: 3px;
+}
+
+.primary-button:hover {
+  background-color: #5127c6;
+  color: #ffffff;
+}
+
+.highlight-link:hover:after {
+  content: '>';
+}
+
+.solid-background {
+  color: #ffffff;
+  background-color: #5127c6;
+}
+
+.solid-background a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.skewed-content {
+  transform: skewY(-7deg);
+}
+
+.skewed-content div {
+  transform: skewY(3.5deg) !important;
+}
+
+/** Header **/
+
+.header-image {
+  background: url('../images/Project_Navigation_Game_Box.png') 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+
+.diagonal-cut {
+  height: 400px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #5127c6;
+  position: absolute;
+  transform: skewY(-7deg);
+  top: -200px;
+  left: 0;
+}
+
+.header-logo {
+  position: absolute;
+  background: transparent;
+  top: 0;
+}
+
+#png-link img {
+  width: 240px;
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+.callout {
+  border: none;
+}
+
+/** Page Content **/
+
+.page-content {
+  max-width: 960px;
+  margin: 20px auto;
+}
+
+.page-content h2 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+p.compact {
+  width: 50%;
+}
+
+.cover-image {
+  background: url('../images/Players_Project_Navigation_Game.jpg') 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
+}
+
+.above-cover-image {
+  margin-top: -150px;
+  margin-bottom: 100px;
+}
+
+.team-section .callout span {
+  display: block;
+  clear: both;
+  padding-left: 10px;
+}
+
+.team-section .contact-name {
+  font-family: 'Futurice-Monospaced', sans-serif;
+  text-transform: uppercase;
+}
+
+/** Footer **/
+
+footer {
+  width: 100%;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+#futurice-link img {
+  width: 100px;
+  margin-bottom: 15px;
+}
+
+.slogan {
+  font-size: 22px;
+  line-height: 1.44;
+  white-space: nowrap;
+}

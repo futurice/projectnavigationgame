@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Futurice-Bold';
+  src: url('Futurice-Bold.eot');
+  src: url('Futurice-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Futurice-Bold.woff2') format('woff2'),
+    url('Futurice-Bold.woff') format('woff'),
+    url('Futurice-Bold.ttf') format('truetype'),
+    url('Futurice-Bold.svg#Futurice-Bold') format('svg');
+}
