@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Futurice-Monospaced';
+  src: url('Futurice-Monospaced.eot');
+  src: url('Futurice-Monospaced.eot?#iefix') format('embedded-opentype'),
+    url('Futurice-Monospaced.woff2') format('woff2'),
+    url('Futurice-Monospaced.woff') format('woff'),
+    url('Futurice-Monospaced.ttf') format('truetype'),
+    url('Futurice-Monospaced.svg#Futurice-Monospaced') format('svg');
+}

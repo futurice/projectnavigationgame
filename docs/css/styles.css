@@ -1,0 +1,323 @@
+@import url('fonts/Futurice-Regular/Futurice-Regular.css');
+@import url('fonts/Futurice-Bold/Futurice-Bold.css');
+@import url('fonts/Futurice-Monospaced/Futurice-Monospaced.css');
+
+html,
+body {
+  font-family: 'Futurice-Regular', sans-serif;
+}
+
+/** General Styles **/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Futurice-Bold', sans-serif;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: 'Futurice-Monospaced', sans-serif;
+}
+
+.clearer {
+  display: block;
+  width: 100%;
+  clear: both;
+}
+
+.spacer {
+  height: 50px;
+  width: 100%;
+  display: block;
+  clear: both;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.primary-button,
+.secondary-button,
+.highlight-link {
+  font-family: 'Futurice-Monospaced', sans-serif;
+  text-transform: uppercase;
+  padding: 20px;
+  letter-spacing: 1px;
+  font-size: 14px;
+  line-height: 1;
+  text-align: center;
+  font-weight: 700;
+  display: block;
+  margin: 0 auto;
+  width: 240px;
+  min-width: 150px;
+}
+
+.primary-button {
+  border: 2px solid #5127c6;
+  border-radius: 3px;
+}
+
+.primary-button:hover {
+  background-color: #5127c6;
+  color: #ffffff;
+}
+
+.primary-button,
+.highlight-link {
+  float: left;
+}
+
+.secondary-button {
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  border-radius: 3px;
+}
+
+.secondary-button:hover {
+  background-color: #ffffff;
+  color: #5127c6;
+}
+
+.highlight-link:hover:after {
+  content: '>';
+}
+
+.solid-background {
+  color: #ffffff;
+  background-color: #5127c6;
+}
+
+.solid-background a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.skewed-content {
+  transform: skewY(-7deg);
+}
+
+.skewed-content div {
+  transform: skewY(3.5deg) !important;
+}
+
+/** Header **/
+
+.header-image {
+  background: url('../images/Project_Navigation_Game_Box.png') 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+
+.dark-background {
+  background-color: #5127c6;
+  height: 350px;
+}
+
+.diagonal-cut {
+  height: 400px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #5127c6;
+  position: absolute;
+  transform: skewY(-7deg);
+  top: -200px;
+  left: 0;
+}
+
+.white-diagonal {
+  background-color: #ffffff;
+}
+
+.header-logo {
+  position: absolute;
+  background: transparent;
+  top: 0;
+}
+
+#png-link img {
+  width: 240px;
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+.callout {
+  border: none;
+}
+
+/** Page Content **/
+
+.page-content {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+.page-content h2 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.page-content ul {
+  list-style-position: inside;
+}
+
+p.compact {
+  width: 60%;
+}
+
+/** Homepage **/
+.cover-image {
+  background: url('../images/Players_Project_Navigation_Game.jpg') 30%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 850px;
+}
+
+.above-cover-image {
+  margin-top: -140px;
+  margin-bottom: 100px;
+}
+
+.team-section .callout span {
+  display: block;
+  clear: both;
+  padding-left: 10px;
+}
+
+.team-section .contact-name {
+  font-family: 'Futurice-Monospaced', sans-serif;
+  text-transform: uppercase;
+}
+
+/** Sales **/
+#select-box {
+  margin-top: -50px;
+  background-color: #5127c6;
+  color: #ffffff;
+}
+
+.purchase-options ul {
+  list-style-position: outside;
+  list-style-image: url('../images/checkmark.svg');
+}
+
+.purchase-options ul li {
+  margin-bottom: 10px;
+  line-height: 1.2;
+}
+
+.purchase-option {
+  background-color: #401f9e;
+  border-radius: 5px;
+  width: 100%;
+  padding: 30px;
+  align-items: baseline;
+  margin-bottom: 20px;
+}
+
+.purchase-action {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.purchase-action a {
+  width: 200px;
+}
+
+/** Redirect pages **/
+#redirect {
+  margin-top: -50px;
+  background-color: #5127c6;
+  color: #ffffff;
+}
+
+#redirect div {
+  min-height: 400px;
+}
+
+/** Footer **/
+
+footer {
+  width: 100%;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+#futurice-link img {
+  width: 100px;
+  margin-bottom: 15px;
+}
+
+.slogan {
+  font-size: 22px;
+  line-height: 1.44;
+  white-space: nowrap;
+}
+
+/** Mobile Queries **/
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+  .diagonal-cut {
+    height: 500px;
+  }
+
+  p.compact {
+    width: 100%;
+  }
+
+  .hide-on-mobile {
+    display: none;
+  }
+
+  #select-box,
+  #redirect {
+    margin-top: 0;
+    padding-top: 3rem;
+  }
+
+  /** Homepage **/
+
+  .cover-image {
+    background-position-x: -10px;
+  }
+
+  .cta-buy {
+    width: 100%;
+    text-align: center;
+  }
+
+  .cta-buy a {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {
+  /** Homepage **/
+  .cover-image {
+    background-position-x: -10px;
+  }
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+}
+
+/* Large and up */
+@media screen and (min-width: 64em) {
+}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+}
