@@ -178,14 +178,14 @@ p.compact {
 
 /** Homepage **/
 .cover-image {
-  background: url('../images/Players_Project_Navigation_Game.jpg') 100%;
-  background-repeat: no-repeat;
+  background: url('../images/Players_Project_Navigation_Game.jpg') 30%;
   background-size: cover;
-  height: 750px;
+  background-repeat: no-repeat;
+  height: 850px;
 }
 
 .above-cover-image {
-  margin-top: -150px;
+  margin-top: -140px;
   margin-bottom: 100px;
 }
 
@@ -285,6 +285,12 @@ footer {
     padding-top: 3rem;
   }
 
+  /** Homepage **/
+
+  .cover-image {
+    background-position-x: -10px;
+  }
+
   .cta-buy {
     width: 100%;
     text-align: center;
@@ -298,6 +304,10 @@ footer {
 
 /* Medium and up */
 @media screen and (min-width: 40em) {
+  /** Homepage **/
+  .cover-image {
+    background-position-x: -10px;
+  }
 }
 
 /* Medium only */
