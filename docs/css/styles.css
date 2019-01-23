@@ -55,6 +55,10 @@ h3 {
   line-height: 1;
   text-align: center;
   font-weight: 700;
+  display: block;
+  margin: 0 auto;
+  width: 240px;
+  min-width: 150px;
 }
 
 .primary-button {
@@ -65,6 +69,11 @@ h3 {
 .primary-button:hover {
   background-color: #5127c6;
   color: #ffffff;
+}
+
+.primary-button,
+.highlight-link {
+  float: left;
 }
 
 .secondary-button {
@@ -224,8 +233,6 @@ p.compact {
 
 .purchase-action a {
   width: 200px;
-  display: block;
-  margin: 0 auto;
 }
 
 /** Redirect pages **/
@@ -276,6 +283,16 @@ footer {
   #redirect {
     margin-top: 0;
     padding-top: 3rem;
+  }
+
+  .cta-buy {
+    width: 100%;
+    text-align: center;
+  }
+
+  .cta-buy a {
+    width: 100%;
+    margin: 0 auto;
   }
 }
 
