@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/joes/Documents/PNG/projectnavigationgame-2.0/print/optional-formats/png-booklet-pages/Document fonts/AdobeFnt20.lst
+OutlineFileName:/Users/joes/Documents/PNG/git/projectnavigationgame/print/optional-formats/png-booklet-pages/Document fonts/AdobeFnt20.lst
 FileLength:1852
 FileModTime:577015866
 %EndFont
@@ -12,9 +12,9 @@ FileModTime:577015866
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/joes/Documents/PNG/projectnavigationgame-2.0/print/optional-formats/png-booklet-pages/Document fonts/AdobeFnt21.lst
+OutlineFileName:/Users/joes/Documents/PNG/git/projectnavigationgame/print/optional-formats/png-booklet-pages/Document fonts/AdobeFnt21.lst
 FileLength:2410
-FileModTime:584610091
+FileModTime:584632241
 %EndFont
 
 %BeginFont
@@ -30,7 +30,7 @@ WidthClass:5
 AngleClass:0
 FullName:Futurice Monospaced
 WritingScript:Roman
-OutlineFileName:/Users/joes/Documents/PNG/projectnavigationgame-2.0/print/optional-formats/png-booklet-pages/Document fonts/Futurice Monospaced.otf
+OutlineFileName:/Users/joes/Documents/PNG/git/projectnavigationgame/print/optional-formats/png-booklet-pages/Document fonts/Futurice Monospaced.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -56,7 +56,7 @@ WidthClass:5
 AngleClass:0
 FullName:Futurice Regular
 WritingScript:Roman
-OutlineFileName:/Users/joes/Documents/PNG/projectnavigationgame-2.0/print/optional-formats/png-booklet-pages/Document fonts/Futurice Regular.otf
+OutlineFileName:/Users/joes/Documents/PNG/git/projectnavigationgame/print/optional-formats/png-booklet-pages/Document fonts/Futurice Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -82,7 +82,7 @@ WidthClass:5
 AngleClass:0
 FullName:Futurice Bold
 WritingScript:Roman
-OutlineFileName:/Users/joes/Documents/PNG/projectnavigationgame-2.0/print/optional-formats/png-booklet-pages/Document fonts/Futurice Bold.otf
+OutlineFileName:/Users/joes/Documents/PNG/git/projectnavigationgame/print/optional-formats/png-booklet-pages/Document fonts/Futurice Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
