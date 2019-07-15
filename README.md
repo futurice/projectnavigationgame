@@ -29,12 +29,12 @@ size 130 x 130 mm<br/>
 
 ## Other included material
 
-Harvest Canvas<br/>
+**Harvest Canvas**<br/>
 /docs/assets
 
 ## Not included
 
-Game tokens
+**Game tokens**
 
 ## Printing instructions
 
