@@ -10,20 +10,20 @@ size: 63 x 88 mm<br/>
 (test print version included)
 
 Quad-fold boards<br/>
-printing 4/4-colors<br/>
+printing 4/4 colors<br/>
 unfolded 254 x 254 mm (folded ~127 x 127 mm)
 
 Box<br/>
-Printing 4/0-colors<br/>
+printing 4/0 colors<br/>
 size: 139.7mm x 139.7mm x 76.2mm
 
 Instructions booklet<br/>
-printing 4/4-colors<br/>
+printing 4/4 colors<br/>
 size 130 x 130 mm<br/>
-3 sheets (12 pages) + 1 sheet (4 pages) for covers
+3 sheets (12 pages) + 1 sheet (4 pages) as covers
 
 Reference guide<br/>
-printing 4/4-colors<br/>
+printing 4/4 colors<br/>
 size 130 x 130 mm<br/>
 1 sheet (4 pages)
 
