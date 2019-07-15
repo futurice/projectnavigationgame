@@ -4,32 +4,32 @@ Project Navigation Game is a game which helps to uncover problems in your projec
 
 ## [Contents of the game set]
 
-263 unique playing cards
-printing 4/4 colors
-size: 63 x 88 mm
+263 unique playing cards<br/>
+printing 4/4 colors<br/>
+size: 63 x 88 mm<br/>
 (test print version included)
 
-Quad-fold boards
-printing 4/4-colors
+Quad-fold boards<br/>
+printing 4/4-colors<br/>
 unfolded 254 x 254 mm (folded ~127 x 127 mm)
 
-Box
-Printing 4/0-colors
+Box<br/>
+Printing 4/0-colors<br/>
 size: 139.7mm x 139.7mm x 76.2mm
 
-Instruction booklet
-printing 4/4-colors
-size 130 x 130 mm
+Instruction booklet<br/>
+printing 4/4-colors<br/>
+size 130 x 130 mm<br/>
 3 sheets (=12 pages)
 
-Reference guide
-printing 4/4-colors
-size 130 x 130 mm
+Reference guide<br/>
+printing 4/4-colors<br/>
+size 130 x 130 mm<br/>
 2 sheets (=8 pages)
 
 ## [Other included material]
 
-Harvest Canvas
+Harvest Canvas<br/>
 /docs/assets
 
 ## [Not included]
