@@ -2,7 +2,7 @@
 
 Project Navigation Game is a game which helps to uncover problems in your project, which you didn’t know you had! It covers all project areas: budget, scope, objectives, people, organisation, practical arrangement and more. The game also helps to build up the team.
 
-## [Contents of the game set]
+## Contents of the game set
 
 263 unique playing cards<br/>
 printing 4/4 colors<br/>
@@ -27,12 +27,12 @@ printing 4/4-colors<br/>
 size 130 x 130 mm<br/>
 2 sheets (=8 pages)
 
-## [Other included material]
+## Other included material
 
 Harvest Canvas<br/>
 /docs/assets
 
-## [Not included]
+## Not included
 
 Game tokens
 
