@@ -40,7 +40,7 @@ size 130 x 130 mm<br/>
 
 If you prefer to print the **Instructions booklet** and **Reference guide** as spreads, those files are included in /print. For printing as pages instead, see the folders included in /print/optional-formats.
 
-The **Reference guide** is the first sheet (4 pages) of the "png-covers" file. The second sheet (last four pages) of the "png-covers" file are the covers of the **Instructions booklet**. The contents of the **Instructions booklet** are in the "png-booklet" file.
+The **Reference guide** is the first sheet (4 pages) of the "png-covers" file. The second sheet (last 4 pages) of the "png-covers" file are the covers of the **Instructions booklet**. The contents of the **Instructions booklet** are in the "png-booklet" file.
 
 The /print/test-print folder contains duplicates of files "png-board.pdf" and "png-box.pdf" because it is intended to display the complete test print set to avoid confusion. The **Instructions booklet** and **Reference guide** are not included in the test print set because they are more commonly available for printing and are less dependant on the materials used for printing.
 
