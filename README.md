@@ -32,6 +32,8 @@ size 130 x 130 mm<br/>
 **Harvest Canvas**<br/>
 /docs/assets
 
+**Stickers**
+
 ## Not included
 
 **Game tokens**
