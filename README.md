@@ -7,6 +7,7 @@ Project Navigation Game is a game which helps to uncover problems in your projec
 **263 unique playing cards**<br/>
 printing 4/4 colors<br/>
 size: 63 x 88 mm<br/>
+round corners<br/>
 (test print version included)
 
 **Quad-fold boards**<br/>
