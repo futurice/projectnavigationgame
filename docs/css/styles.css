@@ -1,10 +1,10 @@
-@import url('fonts/Futurice-Regular/Futurice-Regular.css');
-@import url('fonts/Futurice-Bold/Futurice-Bold.css');
-@import url('fonts/Futurice-Monospaced/Futurice-Monospaced.css');
+@import url("fonts/Futurice-Regular/Futurice-Regular.css");
+@import url("fonts/Futurice-Bold/Futurice-Bold.css");
+@import url("fonts/Futurice-Monospaced/Futurice-Monospaced.css");
 
 html,
 body {
-  font-family: 'Futurice-Regular', sans-serif;
+  font-family: "Futurice-Regular", sans-serif;
 }
 
 /** General Styles **/
@@ -15,7 +15,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Futurice-Bold', sans-serif;
+  font-family: "Futurice-Bold", sans-serif;
 }
 
 h2 {
@@ -24,7 +24,7 @@ h2 {
 
 h3 {
   font-size: 20px;
-  font-family: 'Futurice-Monospaced', sans-serif;
+  font-family: "Futurice-Monospaced", sans-serif;
 }
 
 .clearer {
@@ -47,7 +47,7 @@ h3 {
 .primary-button,
 .secondary-button,
 .highlight-link {
-  font-family: 'Futurice-Monospaced', sans-serif;
+  font-family: "Futurice-Monospaced", sans-serif;
   text-transform: uppercase;
   padding: 20px;
   letter-spacing: 1px;
@@ -88,7 +88,7 @@ h3 {
 }
 
 .highlight-link:hover:after {
-  content: '>';
+  content: ">";
 }
 
 .solid-background {
@@ -112,7 +112,7 @@ h3 {
 /** Header **/
 
 .header-image {
-  background: url('../images/Project_Navigation_Game_Box.png') 100%;
+  background: url("../images/Project_Navigation_Game_Box.png") 100%;
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
@@ -178,7 +178,7 @@ p.compact {
 
 /** Homepage **/
 .cover-image {
-  background: url('../images/Players_Project_Navigation_Game.jpg') 30%;
+  background: url("../images/Players_Project_Navigation_Game.jpg") 30%;
   background-size: cover;
   background-repeat: no-repeat;
   height: 850px;
@@ -196,7 +196,7 @@ p.compact {
 }
 
 .team-section .contact-name {
-  font-family: 'Futurice-Monospaced', sans-serif;
+  font-family: "Futurice-Monospaced", sans-serif;
   text-transform: uppercase;
 }
 
@@ -209,7 +209,7 @@ p.compact {
 
 .purchase-options ul {
   list-style-position: outside;
-  list-style-image: url('../images/checkmark.svg');
+  list-style-image: url("../images/checkmark.svg");
 }
 
 .purchase-options ul li {
@@ -292,7 +292,6 @@ footer {
   }
 
   .cta-buy {
-    width: 100%;
     text-align: center;
   }
 
